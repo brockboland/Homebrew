@@ -1,0 +1,9 @@
+Strike water: 160 for 152 mash at 2 qt/lb
+Recipe calls for 1.15 qt/lb, total: 11.5qt for 10lb grains (almost 3 gallons), so 164 for strike water
+
+Actual results:
+
+Mash: about 4.5 gallons at 150F
+  Had to keep adding water to bring temperature up that far
+
+Sparge: 4-5 gallons at 165F
