@@ -23,4 +23,7 @@ Mashout: 170° F for 10 minutes
 
 ## What I Did
 
-## Results
+## Timeline
+2014.08.13: Brew day
+2014.09.27: Bottling day (45 days in primary)
+2014.10.11: First taste (14 days in bottle). Pretty tasty, but the pumpkin flavor is barely there. Finishes sweet.
