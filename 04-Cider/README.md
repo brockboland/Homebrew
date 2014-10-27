@@ -15,5 +15,5 @@ On bottling day:
 Pretty gross. Came out really strong, but I don't have a hydrometer at home so I'm not sure *how* strong. All the sugar fermented out, so it was *not* very good.
 
 ## Timeline
-2014.06.15: Pitched yeast
-2014.07.03: Bottling day (18 days in primary)
+* 2014.06.15: Pitched yeast
+* 2014.07.03: Bottling day (18 days in primary)

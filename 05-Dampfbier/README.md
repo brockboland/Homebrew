@@ -23,5 +23,5 @@ Mash at 153 F (actually hit about 158) in 14 qts. Sparged at 168 F, with 21 qt.
 Really tasty. Tapped out at the party.
 
 ## Timeline
-2014.07.12: Brewing day
-2014.07.26: Kegging day (14 days in primary)
+* 2014.07.12: Brewing day
+* 2014.07.26: Kegging day (14 days in primary)

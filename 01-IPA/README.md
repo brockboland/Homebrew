@@ -25,9 +25,9 @@ Ferment at 68 F
 * 45 12-ounce bottles
 
 ## Timeline
-2014.05.14: Brew day
-2014.05.29: Checked gravity: 1.016
-2014.06.04: Bottling day (21 days in primary)
-2014.06.19: Carbonation good, but a little too sweet (15 days in bottle)
-2014.07.09: Flavor mellowing out a bit (35 days in bottle)
-2014.10.14: Weird taste. Not sure what it is, but definitely off (132 days in bottle)
+* 2014.05.14: Brew day
+* 2014.05.29: Checked gravity: 1.016
+* 2014.06.04: Bottling day (21 days in primary)
+* 2014.06.19: Carbonation good, but a little too sweet (15 days in bottle)
+* 2014.07.09: Flavor mellowing out a bit (35 days in bottle)
+* 2014.10.14: Weird taste. Not sure what it is, but definitely off (132 days in bottle)

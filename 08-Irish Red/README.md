@@ -28,4 +28,4 @@ What I actually did:
 * OG 1.046
 
 ## Timeline
-2014.09.27: Brewing day
+* 2014.09.27: Brewing day

@@ -25,5 +25,5 @@ Pretty alright. Not a great weizen, but a decent one. Kinda tangy.
 * Total: $33.54
 
 ## Timeline
-2014.06.10: Brewing day
-2014.07.05: Bottling day (25 days in primary)
+* 2014.06.10: Brewing day
+* 2014.07.05: Bottling day (25 days in primary)

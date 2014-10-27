@@ -41,7 +41,10 @@ OG: 1.050
 * 20 bombers and 4 12-ounce bottles
 * Primed with 4.8 oz corn sugar
 
+## Tasting notes
+Solid ale, though the pumpkin is reeeally subtle. A little too sweet.
+
 ## Timeline
-2014.08.13: Brew day
-2014.09.27: Bottling day (45 days in primary)
-2014.10.11: First taste (14 days in bottle). Pretty tasty, but the pumpkin flavor is barely there. Finishes sweet.
+* 2014.08.13: Brew day
+* 2014.09.27: Bottling day (45 days in primary)
+* 2014.10.11: First taste (14 days in bottle). Pretty tasty, but the pumpkin flavor is barely there. Finishes sweet.

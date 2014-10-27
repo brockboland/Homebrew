@@ -43,9 +43,12 @@ Mash at 152 °F (67 °C) in 1.15 quarts (1.1 L) of water per lb. (kg) of grain. 
 * 3.1% ABV
 * 22 bombers
 
+## Tasting notes
+MEH. Alcohol is way too low. Tastes like a cheap American light lager or something.
+
 ## Pricing
 $23.51 total for ingredients
 
 ## Timeline
-2014.07.12: Brewing day
-2014.07.26: Bottling day (14 days in primary)
+* 2014.07.12: Brewing day
+* 2014.07.26: Bottling day (14 days in primary)
