@@ -3,14 +3,21 @@
 I think this recipe was mislabeled: it certainly didn't turn out an IPA, but it was still pretty alright.
 
 ## Recipe
+Specialty grains:
+* 1 lb crystal 60
+
+Extract:
 * 7 lb light DME
 * 1 lb wheat DME
-* 1 lb crystal 60
+
+Boil additions:
 * 1 oz Cascade (60 min)
 * 1 oz Cascade (15 min)
 * 1 oz Cascade (10 min)
 * 1 oz Cascade (5 min)
 * 1 oz Cascade (flameout)
+
+Yeast:
 * Wyeast 1056 American Ale
 
 ## Brewing Day

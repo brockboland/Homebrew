@@ -14,20 +14,22 @@ IBU = 29
 SRM = 8
 ABV = 4.7
 
-Ingredients:
+Grain bill:
+* 4.0 lbs. (1.8 kg) American wheat malt
+* 3.0 lbs. (1.4 kg) American Pilsen malt
+* 2.0 lbs. (0.9 kg) American Vienna malt
+* 8 oz. (227 g) American crystal malt (10 °L)
+* 8 oz. (227 g) American CaraPils® malt
 
-- 4.0 lbs. (1.8 kg) American wheat malt
-- 3.0 lbs. (1.4 kg) American Pilsen malt
-- 2.0 lbs. (0.9 kg) American Vienna malt
-- 8 oz. (227 g) American crystal malt (10 °L)
-- 8 oz. (227 g) American CaraPils® malt
-- 4.25 AAU Mt. Hood hops (60 mins) (1.0 oz./28 g of 4.25% alpha acids)
-- 4.25 AAU Mt. Hood hops (20 mins) (1.0 oz./28 g of 4.25% alpha acids)
-- 1 oz. (28 g) Mt. Hood hops (5 mins)
-- 1 tsp. Irish moss (15 mins)
-- 1 tsp crushed coriander seed (5 mins)
-- Fermentis SafBrew S-33 yeast
-- 0.75 cups corn sugar (for priming)
+Boil additions:
+* 4.25 AAU Mt. Hood hops (60 mins) (1.0 oz./28 g of 4.25% alpha acids)
+* 4.25 AAU Mt. Hood hops (20 mins) (1.0 oz./28 g of 4.25% alpha acids)
+* 1 oz. (28 g) Mt. Hood hops (5 mins)
+* 1 tsp. Irish moss (15 mins)
+* 1 tsp crushed coriander seed (5 mins)
+
+Yeast:
+* Fermentis SafBrew S-33 yeast
 
 Step by Step:
 

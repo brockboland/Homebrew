@@ -2,11 +2,17 @@
 This recipe was put together by Joe Falck at [CHAOS](http://www.chaosbrewclub.net/). We brewed it together for the [Brew-BQ](http://www.chaosbrewclub.net/event/chaos-summer-brew-bq-ii). It was my first all-grain brew.
 
 ## Recipe
+Grain bill:
 * 7 lb pils
 * 3 lb Munich
+
+Boil additions
+* 3 g calcium chloride (90 min)
 * 1/4 oz Magnum (50 min)
 * 1/4 oz Magnum (10 min)
-* 3 g calcium chloride (flameout)
+
+Yeast:
+* Whoops, I forgot to write that down
 
 Mash at 153 F (actually hit about 158) in 14 qts. Sparged at 168 F, with 21 qt.
 

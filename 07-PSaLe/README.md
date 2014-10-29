@@ -4,18 +4,18 @@ Pumpkin Spice Ale, brewed for the [CHAOS Harvest Fest](http://www.chaosbrewclub.
 ## Recipe
 From [Northern Brewer](http://www.northernbrewer.com/shop/smashing-pumpkin-ale-all-grain-kit.html). [PDF](AG-SmashingPumpkin.pdf)
 
-MASH INGREDIENTS
-- 7.5 lbs. Rahr 2 row pale
-- 2.5 lbs. German Munich Malt
-- .5 lbs. Briess Caramel 80
-- .25 lbs. Briess Caramel 60
+Grain bill:
+* 7.5 lbs. Rahr 2 row pale
+* 2.5 lbs. German Munich Malt
+* .5 lbs. Briess Caramel 80
+* .25 lbs. Briess Caramel 60
 
-BOIL ADDITIONS & TIMES
-- 1 oz. Cluster (60 min)
-- 1 tsp. Pumpkin Pie Spice (0 min)
+Boil additions:
+* 1 oz. Cluster (60 min)
+* 1 tsp. Pumpkin Pie Spice (0 min)
 
-YEAST
-- Safale US 05 Ale Yeast.   Optimum temp: 59°–75° F
+Yeast:
+* Safale US 05 Ale Yeast.   Optimum temp: 59°–75° F
 
 MASH SCHEDULE: SINGLE INFUSION
 Sacch’ Rest: 152° F for 60 minutes
@@ -29,7 +29,7 @@ Mashout: 170° F for 10 minutes
 * 8 gallons into the kettle
 
 Actual boil additions:
-* 1 oz Galena 13.9% (60 min) - brew store was out of Cluster
+* 1 oz Galena 13.9% (60 min) (brew store was out of Cluster)
 * 1 tsp Irish moss (15 min)
 * 1 tsp pumpkin spice (flamout)
 
