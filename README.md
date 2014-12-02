@@ -6,3 +6,5 @@
 * [Michigan Summer Wheat Ale](06-Michigan Summer Wheat Ale)
 * [PSaLe](07-PSaLe)
 * [Irish Red](08-Irish Red)
+* [Winter Warmer-Upper](09-Winter Warmer)
+* [Westy Clone, barrel aged](10-West Hubbarderen)
