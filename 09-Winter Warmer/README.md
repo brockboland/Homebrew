@@ -2,7 +2,7 @@
 A winter warmer brewed for [CHAOS Stout & Chili Night IV](http://www.chaosbrewclub.net/event/stout-chili-night-iv).
 
 ## Recipe
-Based loosely on the [Northern Brewer Winter Warmer kit](http://www.northernbrewer.com/shop/winter-warmer-all-grain-kit.html) ([PDF](AG-WinterWarmer.pdf)). I tweaked and fiddled
+Based loosely on the [Northern Brewer Winter Warmer kit](http://www.northernbrewer.com/shop/winter-warmer-all-grain-kit.html) ([PDF](AG-WinterWarmer.pdf)). I tweaked and fiddled to punch it up a bit. Estimated OG: 1.080.
 
 Grain bill:
 * 14.15 lbs Marris Otter
@@ -25,6 +25,10 @@ Fermenter additions:
 
 
 ## Brewing day
+* Actual grain bill was a bit higher, since my efficiency isn't great:
+  * 14.5 lb Marris Otter
+  * 1.35 lb Crystal 60
+  * 0.37 lb Chocolate
 * About 23 qts at 168 F to hit 153 F in mash tun
 * Mashout: added 9 qts at 185 F to raise to 165 F for 10 minutes
 * Batch sparged with 6 more quarts
