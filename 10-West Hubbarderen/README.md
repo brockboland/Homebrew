@@ -49,6 +49,7 @@ Add the candi syrups after peak fermentation in order to help the beer attenuate
 ## Brewing day
 * Mash was right on
 * Boil volume: about 8 gallons
+* Used Styrian Celeia instead of Styrian Goldings because that's all I could get my hands on
 * OG: 1.092
 * About 4 gallons into the fermenter
 * Pitched three packs of Wyeast #3787: Trappist High Gravity
