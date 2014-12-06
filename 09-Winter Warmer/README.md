@@ -37,12 +37,12 @@ Fermenter additions:
 OG: 1.080
 
 ## Bottling day
-* FG: ???
-* ??% ABV
-* ?? bombers and ?? 12-ounce bottles
-* Primed with ?? oz corn sugar
+* FG: 1.018
+* 8.2% ABV
+* 19 bombers and 6 12-ounce bottles
+* Primed with 4.3 oz corn sugar
 
 ## Timeline
 * 2014.11.02: Brew day
 * 2014.11.23: Gravity at 1.018, tasting good
-* 2014.12.04: Planned bottling
+* 2014.12.04: Bottling day
