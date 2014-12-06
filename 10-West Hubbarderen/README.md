@@ -34,6 +34,7 @@ As I originally received it:
 * 1 lbs Dark Candi Syrup [Add to fermentor day 5]
 * 1 lbs Dark Candi Syrup D2 [Add to fermentor day 7]
 
+### Details
 * Mash Schedule: Single Infusion, Light Body, Batch Sparge
 * Total Grain Weight: 18 lbs 12.0 oz
 * Mash In Add 21.18 qt of water at 167.5 F 153.0 F 75 min
