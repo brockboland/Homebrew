@@ -29,3 +29,5 @@ What I actually did:
 
 ## Timeline
 * 2014.09.27: Brewing day
+* 2014.11.02: Bottling day
+* 2015.01.03: Oxidized
