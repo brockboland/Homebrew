@@ -62,3 +62,4 @@ I added the candi syrups a little bit later than the recipe called for because I
 * 2014.11.23: Brew day
 * 2014.11.30: Added 1 lb dark candi syrup (D-90)
 * 2014.12.03: Added 1 lb extra dark candi syrup (D-180)
+* 2015.01.04: Transferred to barrel for aging
