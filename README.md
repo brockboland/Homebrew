@@ -8,3 +8,5 @@
 * [Irish Red](08-Irish Red)
 * [Winter Warmer-Upper](09-Winter Warmer)
 * [Westy Clone, barrel aged](10-West Hubbarderen)
+* [ESB](11-ESB)
+* [Belgian pale ale](12-BPA)

@@ -13,8 +13,7 @@ Mash & Boil:
 
 Boil additions:
 * 2 oz. Kent Goldings (60 min)
-* Irish moss (10 min)
-* * 1 oz. Kent Goldings (0 min)
+* 1 oz. Kent Goldings (0 min)
 
 Fermenter additions:
 * 2 packs Wyeast 1968 London ESB
@@ -23,12 +22,12 @@ Fermenter additions:
 * Actual recipe used, due to availability:
   * Replace 0.5 lb Crystal 15 with 0.25 lb each Caramel 10 and 20
   * Replace all hops with Fuggles
-* Mash with xx qts
-* Mashout: added xx qts at xx F to raise to xx F for 10 minutes
-* Batch sparged with xx more quarts
-* Boil volume: about xx gallons
-
-OG: xxx
+* Mash with 18 qts
+* Sparge was sort of batch, sort of fly (I was winging it)
+* Boil volume: about 7.5 gallons
+* Forgot to add Irish Moss (oh well, it'll still be beer)
+* OG: 1.064
+* Just over 5 gal into the fermenter
 
 ## Bottling day
 * FG: xxx
