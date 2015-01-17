@@ -22,12 +22,11 @@ Fermenter additions:
 * Actual recipe used, due to availability:
   * Replace all hops with Fuggles
   * Replace yeast with Wyeast 1214 Belgian Abbey
-* Mash with xx qts
-* Mashout: added xx qts at xx F to raise to xx F for 10 minutes
-* Batch sparged with xx more quarts
-* Boil volume: about xx gallons
-
-OG: xxx
+* Mash with 18 qts
+* Boil volume: about 8.5 gallons
+* 90 minute boil
+* OG: 1.052
+* about 6 gallons into the fermenter
 
 ## Bottling day
 * FG: xxx
