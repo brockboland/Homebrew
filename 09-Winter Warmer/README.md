@@ -47,3 +47,5 @@ OG: 1.080
 * 2014.11.23: Gravity at 1.018, tasting good
 * 2014.12.04: Bottling day
 * 2014.12.19: Checked first bottle (15 days in bottle). Very little carbonation. Little aroma. Sweet, smooth, a bit nutty.
+* 2015.01.19: Checked another bottle. Still low carbonation. Flavor still good, smooth drinker, but too sweet.
+* 2015.01.24: Served at CHAOS Stout & Chili Night
