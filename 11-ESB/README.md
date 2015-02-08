@@ -30,10 +30,13 @@ Fermenter additions:
 * Just over 5 gal into the fermenter
 
 ## Bottling day
-* FG: xxx
-* xxx% ABV
-* xx bombers
-* Primed with xx oz corn sugar
+* FG: 1.016
+* 5.8% ABV
+* 38 12-ounce bottles
+* Primed with 3.3 oz corn sugar
+
+## Tasting notes
 
 ## Timeline
 * 2015.01.11: Brew day
+* 2015.02.06: Bottling day
