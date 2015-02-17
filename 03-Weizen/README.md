@@ -18,11 +18,11 @@ OG: 1.044
 ## Tasting notes
 Pretty alright. Not a great weizen, but a decent one. Kinda tangy.
 
-## Price
+## Cost of ingredients
 * LME: $25.90
 * Hops: $1.79
 * Yeast: $5.85
-* Total: $33.54
+* **Total**: $33.54
 
 ## Timeline
 * 2014.06.10: Brewing day
