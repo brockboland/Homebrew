@@ -54,5 +54,5 @@ Dry hop:
 
 ## Timeline
 * 2015.02.15: Brew day
-* 2015.02.xx: Dry hopped
-* 2015.02.xx: Bottling day
+* 2015.02.28: Dry hopped with 2oz El Dorado. Gravity: 1.012
+* 2015.03.xx: Bottling day
