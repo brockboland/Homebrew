@@ -40,3 +40,4 @@ Fermenter additions:
 ## Timeline
 * 2015.01.11: Brew day
 * 2015.02.06: Bottling day
+* 2015.03.06: Discovered that all bottles were infected :-( Not sure what I did wrong: I bottled the BPA the same day, and that one was fine, so it was either something in the fermenter, or I failed to properly sanitize the bottling bucket in between batches.

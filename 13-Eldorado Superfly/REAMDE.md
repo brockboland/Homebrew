@@ -45,14 +45,15 @@ Dry hop:
 
 ## Bottling day
 * Target FG: 1.014
-* FG: x.xxx
-* x.x% ABV
-* xx 12-ounce bottles
-* Primed with x.x oz corn sugar
+* FG: 1.012
+* 5.5% ABV
+* 12 bombers and 24 12-ounce bottles
+* Primed with 5 oz corn sugar
+* Used CHAOS bottling bucket #2
 
 ## Tasting notes
 
 ## Timeline
 * 2015.02.15: Brew day
 * 2015.02.28: Dry hopped with 2oz El Dorado. Gravity: 1.012
-* 2015.03.xx: Bottling day
+* 2015.03.07: Bottling day
