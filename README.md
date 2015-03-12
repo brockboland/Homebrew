@@ -11,3 +11,7 @@
 * [ESB](11-ESB)
 * [Belgian pale ale](12-BPA)
 * [Eldorado Superfly](13-Eldorado Superfly)
+* [Scotch Ale](14-Scotch Ale)
+
+Next up:
+* [Victory Belgian Scottish Ale](xx-Belgian Scottish Ale)
