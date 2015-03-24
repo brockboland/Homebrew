@@ -52,8 +52,10 @@ Dry hop:
 * Used CHAOS bottling bucket #2
 
 ## Tasting notes
+Pretty good. Hoppy without being too bitter. Not clear at all, though. I didn't bother with a bag for the dry hopping, which is a mistake I won't make again. Not sure if some gelatin would have helped clear it up though, since I'm assuming it's mostly hop particles clouding the beer.
 
 ## Timeline
 * 2015.02.15: Brew day
 * 2015.02.28: Dry hopped with 2oz El Dorado. Gravity: 1.012
 * 2015.03.07: Bottling day
+* 2015.03.23: Checked two bottles: one gusher, one flat. I forgot to stir in the priming sugar, and counted on the siphoning to mix things up enough.
