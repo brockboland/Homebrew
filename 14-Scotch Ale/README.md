@@ -40,3 +40,4 @@ Fermenter additions:
 
 ## Timeline
 * 2015.03.07: Brew day
+* 2015.03.25: Bottling day
