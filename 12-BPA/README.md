@@ -35,6 +35,7 @@ Fermenter additions:
 * Primed with 4.5 oz corn sugar
 
 ## Tasting notes
+I'm really happy with it. Not spectacular, but no off-flavors and decidedly Belgian. Maybe a bit too sweet, which is surprising since it finished at 1.010.
 
 ## Timeline
 * 2015.01.17: Brew day
