@@ -12,6 +12,7 @@
 * [Belgian pale ale](12-BPA)
 * [Eldorado Superfly](13-Eldorado Superfly)
 * [Scotch Ale](14-Scotch Ale)
+* [Wheat the Fck](15-Wheat the Fck)
 
 Next up:
 * [Victory Belgian Scottish Ale](xx-Belgian Scottish Ale)

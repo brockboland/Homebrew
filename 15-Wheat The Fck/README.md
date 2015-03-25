@@ -1,0 +1,33 @@
+# Wheat the Fck
+American wheat ale made with some leftover bits and pieces
+
+## Recipe
+Grain bill:
+* 6 lb wheat LME
+
+Mash & Boil:
+* Boil 60 minutes
+
+Boil additions:
+* 1 oz. Kent Goldings (60 min)
+* 1 oz. Kent Goldings (10 min)
+
+Fermenter additions:
+* S-05
+
+## Brewing day
+* Boil volume: about x.x gallons
+* xx minute boil
+* OG: 1.0xx
+* About x.x gal into the fermenter (carboy)
+
+## Bottling day
+* FG: 1.0xx
+* x.x% ABV
+* xx 12-ounce bottles
+* Primed with x.x oz corn sugar
+
+## Tasting notes
+
+## Timeline
+* 2015.03.25: Brew day
