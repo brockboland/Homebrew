@@ -16,10 +16,9 @@ Fermenter additions:
 * S-05
 
 ## Brewing day
-* Boil volume: about x.x gallons
-* xx minute boil
-* OG: 1.0xx
-* About x.x gal into the fermenter (carboy)
+* 60 minute boil
+* OG: 1.040
+* About 5.5 gal into the fermenter (carboy)
 
 ## Bottling day
 * FG: 1.0xx

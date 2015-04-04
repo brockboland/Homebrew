@@ -31,10 +31,11 @@ Fermenter additions:
 * Used a 2L starter for the yeast: started on Wed, put in the fridge Fri evening to cold crash ahead of Sat brew day. The yeast didn't all stir up when I pitched, so I added some of the remaining hop slurry from the kettle (since it had been boiled) to shake it loose and pitch the remainder. Don't know how that will affect things, but there was definite activity when I checked on it two days later.
 
 ## Bottling day
-* FG: 1.0xx
-* x.x% ABV
-* xx 12-ounce bottles
-* Primed with x.x oz corn sugar
+* Primed with 4.1 oz corn sugar
+* Bottled using CHAOS bucket #1
+* FG: 1.022
+* 4.5% ABV
+* 45 12-ounce bottles
 
 ## Tasting notes
 
