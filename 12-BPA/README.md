@@ -40,3 +40,4 @@ I'm really happy with it. Not spectacular, but no off-flavors and decidedly Belg
 ## Timeline
 * 2015.01.17: Brew day
 * 2015.02.06: Bottling day
+* 2015.04.07: Still really good, maybe still a bit sweet. Wishing it were carbonated more.
