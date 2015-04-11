@@ -1,5 +1,5 @@
 # Eldorado Superly
-This was brewed for the CHAOS [Cerveza de Mayo](http://www.chaosbrewclub.net/event/cerveza-de-mayo-0) party next month. We tend to get a lot of hoppy IPAs and beers with Mexican spices and the like, so I was aiming for a mellower pale ale for those who come looking for an easy-drinker. I did [a dry run a couple months ago](13-Eldorado Superfly) to make sure it turned out the way I wanted it to.
+This was brewed for the CHAOS [Cerveza de Mayo](http://www.chaosbrewclub.net/event/cerveza-de-mayo-0) party next month. We tend to get a lot of hoppy IPAs and beers with Mexican spices and the like, so I was aiming for a mellower pale ale for those who come looking for an easy-drinker. I did [a dry run a couple months ago](../13-Eldorado Superfly) to make sure it turned out the way I wanted it to.
 
 ## Recipe
 Grain bill:
