@@ -13,6 +13,7 @@
 * [Eldorado Superfly](13-Eldorado Superfly)
 * [Scotch Ale](14-Scotch Ale)
 * [Wheat the Fck](15-Wheat the Fck)
+* [Eldorado Superfly, brew 2](16-Eldorado Superfly)
 
 Next up:
 * [Victory Belgian Scottish Ale](xx-Belgian Scottish Ale)
