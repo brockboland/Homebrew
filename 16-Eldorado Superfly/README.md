@@ -1,6 +1,8 @@
 # Eldorado Superly
 This was brewed for the CHAOS [Cerveza de Mayo](http://www.chaosbrewclub.net/event/cerveza-de-mayo-0) party next month. We tend to get a lot of hoppy IPAs and beers with Mexican spices and the like, so I was aiming for a mellower pale ale for those who come looking for an easy-drinker. I did [a dry run a couple months ago](../13-Eldorado Superfly) to make sure it turned out the way I wanted it to.
 
+I wasn't paying attention at the brew store and accidentally got 0.75 lb of melanoidin instead of 0.5 lb, and since it was all mixed in with the other grain I couldn't really undo that mistake. We'll see how that affects things.
+
 ## Recipe
 Grain bill:
 * 9.5 lb UK pale malt
@@ -32,11 +34,12 @@ Dry hop:
 * 2 oz. El Dorado (7 days)
 
 ## Brewing day
-* Mash with xx qts
-* Boil volume: about x.x gallons
-* xx minute boil
-* OG: 1.0xx
-* about x gallons into the fermenter
+* Mash with 16 qts
+* Batch sparge with 6 gallons
+* Boil volume: about 8.75 gallons
+* 60 minute boil
+* OG: 1.054
+* about 5 gallons into the fermenter
 
 ## Bottling day
 * Target FG: 1.014
