@@ -42,3 +42,4 @@ Fermenter additions:
 ## Timeline
 * 2015.03.07: Brew day
 * 2015.03.25: Bottling day
+* 2015.04.17: Tastes good, but a little flat
