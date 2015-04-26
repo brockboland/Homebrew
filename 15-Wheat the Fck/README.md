@@ -31,3 +31,4 @@ Fermenter additions:
 ## Timeline
 * 2015.03.25: Brew day
 * 2015.04.11: Gravity at 1.008. Tastes about as good as I expected. Someone pointed out that I could add berries or something to it, which I might do this week.
+* 2015.04.18: Transfered to bucket #2 on top of a can of Vintner's Harvest raspberyr puree. Only got about 4 gallons into the bucket because the autosiphon stopped working on me.
