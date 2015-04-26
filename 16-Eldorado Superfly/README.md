@@ -40,6 +40,7 @@ Dry hop:
 * 60 minute boil
 * OG: 1.054
 * about 5 gallons into the fermenter
+* Using bucket fermenter #1
 
 ## Bottling day
 * Target FG: 1.014
