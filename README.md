@@ -14,6 +14,7 @@
 * [Scotch Ale](14-Scotch Ale)
 * [Wheat the Fck](15-Wheat the Fck)
 * [Eldorado Superfly, brew 2](16-Eldorado Superfly)
+* [Saison d'Êxtra](17-Saison Dextra)
 
-Next up:
+On deck:
 * [Victory Belgian Scottish Ale](xx-Belgian Scottish Ale)

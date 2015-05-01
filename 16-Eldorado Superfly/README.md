@@ -42,6 +42,11 @@ Dry hop:
 * about 5 gallons into the fermenter
 * Using bucket fermenter #1
 
+## Dry hop
+* Transferred into glass carboy with 2 oz El Dorado in two mesh hop bags
+* Gravity at 1.014
+* About 5 gal into secondary
+
 ## Bottling day
 * Target FG: 1.014
 * FG: 1.0xx
@@ -55,3 +60,4 @@ Dry hop:
 
 ## Timeline
 * 2015.04.11: Brew day
+* 2015.04.26: Dry hopped
