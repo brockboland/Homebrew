@@ -29,13 +29,13 @@ Gravity:
 * Target: 1.011
 
 ## Brewing day
-* Mash with xx qts
-* Batch sparge with xx gallons
-* Boil volume: about x.x gallons
+* Mash with 17 qts
+* Batch sparge with around 8 gallons
+* Boil volume: about 10 gallons
 * 90 minute boil
-* OG: 1.0xx
-* about 5 gallons into the fermenter
-* Using bucket fermenter #xx
+* OG: 1.062
+* about 5.5 gallons into the fermenter
+* Using bucket fermenter #1
 
 ## Bottling day
 * Target FG: 1.011
