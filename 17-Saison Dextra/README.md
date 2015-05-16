@@ -50,3 +50,4 @@ Gravity:
 
 ## Timeline
 * 2015.05.03: Brew day
+* 2015.05.16: Moved from ferm room (68F) to the bar area of the brewhouse to finish at a higher temperature. Currently at 1.008.
