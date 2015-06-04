@@ -39,11 +39,11 @@ Gravity:
 
 ## Bottling day
 * Target FG: 1.011
-* FG: 1.0xx
-* x.x% ABV
-* xx bombers and xx 12-ounce bottles
-* Primed with x.x oz corn sugar
-* Used CHAOS bottling bucket #x
+* FG: 1.000
+* 8.2% ABV
+* 48 12-ounce bottles
+* Primed with 6.0 oz corn sugar
+* Used CHAOS bottling bucket #2
 
 ## Tasting notes
 
@@ -51,3 +51,4 @@ Gravity:
 ## Timeline
 * 2015.05.03: Brew day
 * 2015.05.16: Moved from ferm room (68F) to the bar area of the brewhouse to finish at a higher temperature. Currently at 1.008.
+* 2015.05.23: Bottling day
