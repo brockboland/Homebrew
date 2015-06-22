@@ -17,6 +17,3 @@
 * [Saison d'Êxtra](17-Saison Dextra)
 * [Irish ale](18-Irish ale)
 * [Belgian Highlands](19-Belgian Highlands), a Belgian/Scottish ale
-
-On deck:
-* [Victory Belgian Scottish Ale](xx-Belgian Scottish Ale)
