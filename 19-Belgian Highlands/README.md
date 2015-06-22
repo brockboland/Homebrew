@@ -3,7 +3,7 @@ From issue 97 of [Beer Advocate magazine](http://www.beeradvocate.com/), in an a
 
 ## Recipe
 Grain bill:
-* 15 lb Belgian or English pale
+* 15 lb Belgian pale
 * 0.5 lb Special B
 * 2 lb Carafa II Special
 
@@ -12,6 +12,7 @@ Mash & Boil:
 
 Boil additions:
 * 0.5 oz. Magnum (60 min) (substituted Warrior)
+* Irish moss (10 min)
 * 1 lb brown sugar (10 min)
 
 Yeast:
@@ -33,6 +34,7 @@ Notes:
 * 60 minute boil
 * OG: 1.080
 * about 5.5 gallons into the fermenter
+* Fermented in carboy
 
 ## Bottling day
 * FG: 1.0xx
