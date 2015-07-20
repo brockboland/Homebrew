@@ -37,13 +37,14 @@ Notes:
 * Fermented in carboy
 
 ## Bottling day
-* FG: 1.0xx
-* x.x% ABV
-* xx bombers and xx 12-ounce bottles
-* Primed with x.x oz corn sugar
-* Bottling bucket: xx
+* FG: 1.022
+* 7.7% ABV
+* 24 bombers and 5 12-ounce bottles
+* Primed with 4.2 oz corn sugar
+* Bottling bucket: CHAOS bucket 1
 
 ## Tasting notes
 
 ## Timeline
 * 2015.06.21: Brew day. It came out a lot darker than I was expecting: I had never heard of Carafa II Special before I got to the brew store the other day, so I didn't realize how much dark malt would be going into this.
+* 2015.07.08: Bottling day
