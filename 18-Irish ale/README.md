@@ -1,6 +1,8 @@
 # Irish Ale
 From <a href="http://www.amazon.com/gp/product/0937381926/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0937381926&linkCode=as2&tag=brocklicom-20&linkId=G2SKHITAJUJNNAOV">Brewing Classic Styles</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=brocklicom-20&l=as2&o=1&a=0937381926" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
 
+I got kind of busy this summer, and this sat in primary for two and a half months before kegging. I'm hoping that's a good thing: I checked the gravity after 2 or 3 weeks, and though I failed to write it down, I know it was higher than I wanted it to be. It also doesn't hurt to let a malty beer like this sit for a little while, so I'm hoping it's better off for the extra time.
+
 ## Recipe
 Grain bill:
 * 11.25 lb British pale (bumped up to 11.8)
@@ -34,14 +36,13 @@ Gravity targets:
 
 ## Bottling day
 * Target FG: 1.014
-* FG: 1.0xx
-* x.x% ABV
-* xx 12-ounce bottles
-* Primed with x.x oz corn sugar
-* Used CHAOS bottling bucket #x
+* FG: 1.012
+* 5.8% ABV
+* 5 gallon keg
 
 ## Tasting notes
 
 
 ## Timeline
 * 2015.06.14: Brew day
+* 2015.08.30: Kegging day
