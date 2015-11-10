@@ -3,6 +3,8 @@ From <a href="http://www.amazon.com/gp/product/0937381926/ref=as_li_tl?ie=UTF8&c
 
 I got kind of busy this summer, and this sat in primary for two and a half months before kegging. I'm hoping that's a good thing: I checked the gravity after 2 or 3 weeks, and though I failed to write it down, I know it was higher than I wanted it to be. It also doesn't hurt to let a malty beer like this sit for a little while, so I'm hoping it's better off for the extra time.
 
+Update: It was actually pretty good! It wasn't tapped until two and a half months after the brew day, then half of it sat in my living room for two more months. Incredibly, five months after brewing, it's still pretty decent.
+
 ## Recipe
 Grain bill:
 * 11.25 lb British pale (bumped up to 11.8)
@@ -46,3 +48,5 @@ Gravity targets:
 ## Timeline
 * 2015.06.14: Brew day
 * 2015.08.30: Kegging day
+* 2015.09.05: Half the keg consumed at a party
+* 2015.11.09: Remainder put on tap at CHAOS brewhouse
