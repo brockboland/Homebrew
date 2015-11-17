@@ -17,3 +17,17 @@
 * [Saison d'Êxtra](17-Saison Dextra)
 * [Irish ale](18-Irish ale)
 * [Belgian Highlands](19-Belgian Highlands), a Belgian/Scottish ale
+
+
+## Todo
+- Russian Imperial Stout (around 10%, not till winter)
+- Strong Scotch ale (aka wee heavy, around 9%)
+- IPA
+- Belgian pale ale (around 5-6%)
+- Irish ale (around 5%)
+- w00tstout
+- Belgian Quad
+- Cake stout
+- English Special Bitter (aka ESB, around 5%)
+- Dubbel
+- Belgian/Scottish ale (around 9%)
