@@ -50,3 +50,4 @@ Gravity targets:
 * 2015.08.30: Kegging day
 * 2015.09.05: Half the keg consumed at a party
 * 2015.11.09: Remainder put on tap at CHAOS brewhouse
+* 2015.11.12: Bottled from the keg, with orange extract added to the bottles, for the Nielsen-Massey homebrew competitioin. Came out smelling very orangey and tasting a bit sharper.
