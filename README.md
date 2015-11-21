@@ -19,6 +19,7 @@
 19. [Belgian Highlands](19-Belgian Highlands), a Belgian/Scottish ale
 
 ## On Deck
+- Root beer: [this](http://www.homebrewtalk.com/showpost.php?p=5285332&postcount=13) or [this](http://www.eckraus.com/blog/how-to-make-your-own-root-beer-two-recipes)
 - Russian Imperial Stout: Brewing Classic Styles p 176
 - Strong Scotch ale: Brewing Classic Styles p 131
 - Re-do [Belgian pale ale](12-BPA)
