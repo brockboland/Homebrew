@@ -9,7 +9,7 @@ Grain bill:
 * 2.5 lb chocolate malt
 * 0.85 lb Crystal 120°
 
-Mash & Boil:
+Mash:
 * Mash at 149 F for 90 minutes
 
 Boil additions:
