@@ -17,10 +17,10 @@
 17. [Saison d'Êxtra](17-Saison Dextra)
 18. [Irish ale](18-Irish ale)
 19. [Belgian Highlands](19-Belgian Highlands), a Belgian/Scottish ale
+20. [Russian Imperial Stout](20-Russian Imperial Stout)
 
 ## On Deck
 - Root beer: [this](http://www.homebrewtalk.com/showpost.php?p=5285332&postcount=13) or [this](http://www.eckraus.com/blog/how-to-make-your-own-root-beer-two-recipes)
-- Russian Imperial Stout: Brewing Classic Styles p 176
 - Strong Scotch ale: Brewing Classic Styles p 131
 - Re-do [Belgian pale ale](12-BPA)
 - IPA: Brewing Classic p 185
