@@ -25,6 +25,7 @@ Yeast:
 
 Notes:
 * Target OG: 1.100
+* Recipe calls for dry hopping with 2 oz Kent Goldings for 7 days. Not sure if I'll bother with this.
 
 ## Brewing day
 * Mash with 30 qts
