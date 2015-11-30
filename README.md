@@ -18,10 +18,10 @@
 18. [Irish ale](18-Irish ale)
 19. [Belgian Highlands](19-Belgian Highlands), a Belgian/Scottish ale
 20. [Russian Imperial Stout](20-Russian Imperial Stout)
+21. [Hard Root Beer](21-Hard Root Beer)
+22. [Wee Heavy](22-Wee Heavy)
 
 ## On Deck
-- Root beer: [this](http://www.homebrewtalk.com/showpost.php?p=5285332&postcount=13) or [this](http://www.eckraus.com/blog/how-to-make-your-own-root-beer-two-recipes)
-- Strong Scotch ale: Brewing Classic Styles p 131
 - Re-do [Belgian pale ale](12-BPA)
 - IPA: Brewing Classic p 185
 - Irish ale (around 5%)
