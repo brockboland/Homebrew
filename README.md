@@ -20,6 +20,7 @@
 20. [Russian Imperial Stout](20-Russian Imperial Stout)
 21. [Hard Root Beer](21-Hard Root Beer)
 22. [Wee Heavy](22-Wee Heavy)
+23. [Cleverly-Named Pale Ale](23-Pale Ale)
 
 ## On Deck
 - Re-do [Belgian pale ale](12-BPA)
