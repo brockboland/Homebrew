@@ -46,3 +46,4 @@ Notes:
 
 ## Timeline
 * 2015.11.26: Brew day
+* 2015.12.13: Transferred to secondary. Gravity at 1.032.

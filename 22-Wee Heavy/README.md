@@ -43,3 +43,4 @@ Notes:
 
 ## Timeline
 * 2015.11.29: Brew day
+* 2015.12.13: Pulled a sample. Gravity at 1.026.
