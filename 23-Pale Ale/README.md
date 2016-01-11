@@ -28,13 +28,13 @@ Notes:
 * Fermented in bucket #1
 
 ## Bottling day
-* FG: 1.0xx
-* x.x% ABV
-* xx bombers and xx 12-ounce bottles
-* Primed with xx oz corn sugar
-* Bottling bucket: x
+* FG: 1.014
+* 5.1% ABV
+* Kegged with corn sugar, since I was leaving the keg at the brewhouse until our party
+* Primed with 2.8 oz corn sugar
 
 ## Tasting notes
 
 ## Timeline
 * 2015.12.13: Brew day
+* 2016.01.10: Kegged
