@@ -1,5 +1,5 @@
 # Wee Heavy
-Rrom [Brewing Classic Styles](http://www.amazon.com/Brewing-Classic-Styles-Winning-Recipes-ebook/dp/B002C1AJX8). I did the all-grain version.
+From [Brewing Classic Styles](http://www.amazon.com/Brewing-Classic-Styles-Winning-Recipes-ebook/dp/B002C1AJX8). I did the all-grain version.
 
 ## Recipe
 Grain bill:
