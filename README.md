@@ -21,9 +21,9 @@
 21. [Hard Root Beer](21-Hard Root Beer)
 22. [Wee Heavy](22-Wee Heavy)
 23. [Cleverly-Named Pale Ale](23-Pale Ale)
+24. [Belgian Pale Ale](24-BPA)
 
 ## On Deck
-- Re-do [Belgian pale ale](12-BPA)
 - IPA: Brewing Classic p 185
 - Irish ale (around 5%)
 - [w00tstout](Future Recipes/AG-w00tstout.pdf)
