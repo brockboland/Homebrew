@@ -33,14 +33,15 @@ Notes:
 * Fermented in bucket #2
 
 ## Bottling day
-* FG: 1.0xx
-* x.x% ABV
-* xx bombers and xx 12-ounce bottles
-* Primed with xx oz corn sugar
-* Bottling bucket: x
+* FG: 1.024
+* 10.1% ABV
+* 48 12-ounce bottles
+* Primed with 4.1 oz corn sugar
+* Bottling bucket #1 (new CHAOS bucket)
 
 ## Tasting notes
 
 ## Timeline
 * 2015.11.29: Brew day
 * 2015.12.13: Pulled a sample. Gravity at 1.026.
+* 2016.01.23: Bottling day
