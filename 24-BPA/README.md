@@ -23,10 +23,11 @@ Fermenter additions:
 
 ## Brewing day
 * Mash with about 18 qts
-* Boil volume: about x.x gallons
+* Boil volume: about 8 gallons
 * 65 minute boil
 * OG: 1.062
 * about 4.5 gallons into the fermenter
+* Fermented in bucket #2
 
 ## Bottling day
 * FG: 1.0xx
