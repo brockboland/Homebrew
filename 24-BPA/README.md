@@ -1,5 +1,7 @@
 # Belgian Pale Ale
-Based on "Antwerp Afternoon" from [Brewing Classic Styles](http://www.amazon.com/Brewing-Classic-Styles-Winning-Recipes-ebook/dp/B002C1AJX8), with some tweaks: I had a sack of British pale malt, and the yeast specified by the recipe wasn't available. I'm using the same yeast as [the last time I brewed this recipe](../12-BPA)
+Based on "Antwerp Afternoon" from [Brewing Classic Styles](http://www.amazon.com/Brewing-Classic-Styles-Winning-Recipes-ebook/dp/B002C1AJX8), with some tweaks: I had a sack of British pale malt, and the yeast specified by the recipe wasn't available. I'm using the same yeast as [the last time I brewed this recipe](../12-BPA).
+
+I got distracted when the boil started and only tossed in the 0.3 oz of hops that I'd measured out, and not the other ounce that was supposed to go with it. I added that a bit later when I realized my mistake and extended the boil a bit, so hopefully it comes close to evening out, but I don't have high hopes for this brew. 
 
 ## Recipe
 Grain bill:
@@ -9,21 +11,22 @@ Grain bill:
 
 Mash & Boil:
 * Mash at 152 F for 60 minutes
-* Boil 90 minutes
+* Boil 65 minutes
 
 Boil additions:
-* 1.3 oz. Kent Goldings (60 min)
+* 0.3 oz. Kent Goldings (65 min)
+* 1 oz. Kent Goldings (45 min)
 * 0.3 oz. Kent Goldings (0 min)
 
 Fermenter additions:
 * 2 packs Wyeast 1214 Belgian Abbey
 
 ## Brewing day
-* Mash with xx qts
+* Mash with about 18 qts
 * Boil volume: about x.x gallons
-* xx minute boil
-* OG: 1.0xx
-* about xx gallons into the fermenter
+* 65 minute boil
+* OG: 1.062
+* about 4.5 gallons into the fermenter
 
 ## Bottling day
 * FG: 1.0xx
@@ -34,4 +37,4 @@ Fermenter additions:
 ## Tasting notes
 
 ## Timeline
-* 2016.01.24: Brew day
+* 2016.02.01: Brew day
