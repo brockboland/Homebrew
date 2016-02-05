@@ -34,7 +34,9 @@ Notes:
 * Primed with 2.8 oz corn sugar
 
 ## Tasting notes
+A little on the sweet side. I would have noted more, but I only got a small sample of it—it was finished off a lot quicker than I expected!
 
 ## Timeline
 * 2015.12.13: Brew day
 * 2016.01.10: Kegged
+* 2016.01.30: Keg was tapped and kicked at the CHAOS Stout and Chili night
