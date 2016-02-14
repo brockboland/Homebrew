@@ -30,6 +30,7 @@ Fermenter additions:
 * FG: 1.0xx
 * x.x% ABV
 * xxx 12-ounce bottles
+* Carbonation target: 1.5 to 2 volumes
 * Primed with x.x oz corn sugar
 
 ## Tasting notes
