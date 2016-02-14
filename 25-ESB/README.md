@@ -9,7 +9,7 @@ Grain bill:
 
 Mash & Boil:
 * Mash at 152 F for 60 minutes
-* Boil 65 minutes
+* Boil 60 minutes
 
 Boil additions:
 * 2 oz. Kent Goldings (60 min)
