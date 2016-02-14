@@ -22,6 +22,7 @@
 22. [Wee Heavy](22-Wee Heavy)
 23. [Cleverly-Named Pale Ale](23-Pale Ale)
 24. [Belgian Pale Ale](24-BPA)
+25. [ESB](25-ESB)
 
 ## On Deck
 - IPA: Brewing Classic p 185
