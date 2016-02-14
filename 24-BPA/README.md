@@ -39,3 +39,4 @@ Fermenter additions:
 
 ## Timeline
 * 2016.02.01: Brew day
+* 2016.02.11: Gravity at 1.011 (6.7% ABV)

@@ -10,7 +10,7 @@ Mash:
 
 Boil additions:
 * 1 oz Kent Goldings (60 min)
-* 0.75 oz Eldorado (20 min)
+* 0.75 oz El Dorado (20 min)
 * Irish moss (15 min)
 * Yeast nutrient (15 min)
 
