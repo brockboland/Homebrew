@@ -3,7 +3,7 @@
 
 ## Recipe
 Grain bill:
-* 12 lbs English pale
+* 12.25 lbs English pale
 * 0.5 lb Crystal 15 (brew store doesn't have 15, so I used half 10 and half 20)
 * 0.25 lb Crystal 120
 
@@ -19,10 +19,11 @@ Fermenter additions:
 * 2 packets Safale S-04
 
 ## Brewing day
-* Mash with xx qts
-* Boil volume: about x gallons
-* OG: 1.0xx
-* about x.x gallons into the fermenter
+* Mash with 19 qts
+* Sparge with 7 gallons between mashout and the HLT (lost a couple quarters in HLT deat space)
+* Boil volume: about 8.5 gallons
+* OG: 1.063
+* Just under 5 gallons into the fermenter
 * Fermented in bucket #3
 
 ## Bottling day
