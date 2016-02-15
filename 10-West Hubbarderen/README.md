@@ -1,6 +1,8 @@
 # West-Hubbarderen 2417
 A Westvleteren 12 clone for aging in a barrel. The name is a reference to the CHAOS brewhouse at 2417 West Hubbard. [Forum thread](http://www.chaosbrewclub.net/forum/barrel-aging/west-hubbarderen-2417-belgian-dark-strong).
 
+Unfortunately, the beer became infected in the barrel, so it's kind of a sour stout now.
+
 ## Recipe
 As I originally received it:
 
@@ -63,3 +65,4 @@ I added the candi syrups a little bit later than the recipe called for because I
 * 2014.11.30: Added 1 lb dark candi syrup (D-90)
 * 2014.12.03: Added 1 lb extra dark candi syrup (D-180)
 * 2015.01.04: Transferred to barrel for aging
+* 2016.02.14: Barrel emptied. My share went into my bucket #1
