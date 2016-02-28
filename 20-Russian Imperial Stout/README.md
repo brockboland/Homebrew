@@ -36,14 +36,13 @@ Notes:
 * Fermented in bucket #1
 
 ## Bottling day
-* FG: 1.0xx
-* x.x% ABV
-* xx bombers and xx 12-ounce bottles
-* Primed with xx oz corn sugar
-* Bottling bucket: x
+* FG: 1.030
+* 11.3% ABV
+* Primed with 2.3 oz corn sugar in keg
 
 ## Tasting notes
 
 ## Timeline
 * 2015.11.26: Brew day
 * 2015.12.13: Transferred to secondary. Gravity at 1.032.
+* 2016.02.27: Kegged with priming sugar to condition.
