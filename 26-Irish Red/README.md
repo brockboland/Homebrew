@@ -8,6 +8,13 @@ Grain bill:
 * 6 oz Crystal 120
 * 6 oz Roasted barley
 
+## Price
+* Base malt: $14.70
+* Specialty grain: $1.68
+* Yeast: $6.29
+* Hops: $2.52
+* **Total: $25.19**
+
 Mash & Boil:
 * Mash at 153 F for 60 minutes
 * Boil 60 minutes

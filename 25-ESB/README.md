@@ -18,6 +18,13 @@ Boil additions:
 Fermenter additions:
 * 2 packets Safale S-04
 
+## Price
+* Base malt: $16
+* Specialty grain: $1.13
+* Yeast: $6.10
+* Hops: $6.06
+* **Total: $29.29**
+
 ## Brewing day
 * Mash with 19 qts
 * Sparge with 7 gallons between mashout and the HLT (lost a couple quarters in HLT dead space)
