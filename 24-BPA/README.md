@@ -29,14 +29,14 @@ Fermenter additions:
 * about 4.5 gallons into the fermenter
 * Fermented in bucket #2
 
-## Bottling day
-* FG: 1.0xx
-* x.x% ABV
-* xxx 12-ounce bottles
-* Primed with x.x oz corn sugar
+## Kegging day
+* FG: 1.012
+* 6.6% ABV
+* Primed with 1.9 oz corn sugar to keg-condition
 
 ## Tasting notes
 
 ## Timeline
 * 2016.02.01: Brew day
 * 2016.02.11: Gravity at 1.011 (6.7% ABV)
+* 2016.03.06: Kegged. Hints of banana on the nose, so I'm calling it Bananas for Belgium.

@@ -20,20 +20,21 @@ Fermenter additions:
 
 ## Brewing day
 * Mash with 19 qts
-* Sparge with 7 gallons between mashout and the HLT (lost a couple quarters in HLT deat space)
+* Sparge with 7 gallons between mashout and the HLT (lost a couple quarters in HLT dead space)
 * Boil volume: about 8.5 gallons
 * OG: 1.063
 * Just under 5 gallons into the fermenter
 * Fermented in bucket #3
 
 ## Bottling day
-* FG: 1.0xx
-* x.x% ABV
-* xxx 12-ounce bottles
-* Carbonation target: 1.5 to 2 volumes
-* Primed with x.x oz corn sugar
+* FG: 1.010
+* 7.0% ABV
+* 42 12-ounce bottles
+* Primed with 4 oz corn sugar
+* Used CHAOS bottling bucket #1
 
 ## Tasting notes
 
 ## Timeline
 * 2016.02.14: Brew day
+* 2016.03.06Bottled
