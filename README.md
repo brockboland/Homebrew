@@ -23,6 +23,8 @@
 23. [Cleverly-Named Pale Ale](23-Pale Ale)
 24. [Belgian Pale Ale](24-BPA)
 25. [ESB](25-ESB)
+26. [Irish red](26-Irish Red)
+27. [Milk stout](27-Milk Stout)
 
 ## On Deck
 - IPA: Brewing Classic p 185
