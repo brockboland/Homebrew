@@ -44,4 +44,4 @@ Fermenter additions:
 
 ## Timeline
 * 2016.02.14: Brew day
-* 2016.03.06Bottled
+* 2016.03.06: Bottled

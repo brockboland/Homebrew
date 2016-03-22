@@ -41,8 +41,13 @@ Notes:
 * Primed with 2.3 oz corn sugar in keg
 
 ## Tasting notes
+Tasted amazing when I served it 2016.03.13, only four months after brew day. Roasty with a bit of rye-like spiciness. I was really happy with how this came out.
+
+I bottled most of the remainder on 2016.03.21, using the worst method: a piece of tubing stuffed into the tap. I'm sure those bottles will wind up oxygenated (but I needed the fridge space back), so I'm going to give most of them away so they can be finished off before too long.
 
 ## Timeline
 * 2015.11.26: Brew day
 * 2015.12.13: Transferred to secondary. Gravity at 1.032.
 * 2016.02.27: Kegged with priming sugar to condition.
+* 2016.03.13: Served at Goose Island Stout Fest
+* 2016.03.21: Filled 14 bombers from the remainder of the keg
