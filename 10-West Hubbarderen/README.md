@@ -66,3 +66,4 @@ I added the candi syrups a little bit later than the recipe called for because I
 * 2014.12.03: Added 1 lb extra dark candi syrup (D-180)
 * 2015.01.04: Transferred to barrel for aging
 * 2016.02.14: Barrel emptied. My share went into my bucket #1
+* 2016.03.20: Bottled with 4oz corn sugar and half a packet of champagne yeast. 48 12-oz bottles.
