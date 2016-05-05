@@ -45,3 +45,4 @@ Notes:
 * 2015.11.29: Brew day
 * 2015.12.13: Pulled a sample. Gravity at 1.026.
 * 2016.01.23: Bottling day
+* 2016.05.04: Definitely oxygenated. A bit over-carbonated. Some bottles might be infected—WAY overcarbonated.
