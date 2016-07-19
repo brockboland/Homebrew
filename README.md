@@ -24,7 +24,8 @@
 24. [Belgian Pale Ale](24-BPA)
 25. [ESB](25-ESB)
 26. [Irish red](26-Irish Red)
-27. [Milk stout](27-Milk Stout)
+27. [Vanilla Darling](27-Vanilla Darling)
+28. [Milk stout](28-Milk Stout)
 
 ## On Deck
 - IPA: Brewing Classic p 185
