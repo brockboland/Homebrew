@@ -1,5 +1,7 @@
 # Irish Red
-From [Brewing Classic Styles](http://www.amazon.com/Brewing-Classic-Styles-Winning-Recipes-ebook/dp/B002C1AJX8). I'm doing the all-grain version. 
+From [Brewing Classic Styles](http://www.amazon.com/Brewing-Classic-Styles-Winning-Recipes-ebook/dp/B002C1AJX8). I did the all-grain version.
+
+Ths one sat in the fermenter way longer than usual: I messed up my back shortly after brewing it, and wasn't able to do anything with it for a while.
 
 ## Recipe
 Grain bill:
@@ -35,13 +37,15 @@ Fermenter additions:
 * Fermented in bucket #2
 
 ## Bottling day
-* FG: 1.0xx
-* x.x% ABV
-* xxx 12-ounce bottles
-* Carbonation target: 1.5 to 2 volumes
-* Primed with x.x oz corn sugar
+* FG: 1.006
+* 7% ABV
+* 22 22-ounce bottles
+* Primed with 4.0 oz corn sugar
+* Used CHAOS bottling bucket #2
 
 ## Tasting notes
+On bottling day, the sample I pulled tasted a bit cidery, and the final gravity was lower than I expected. I pulled a sample a couple weeks ago that tasted more like what I expected it to, and I'm worried I may have introduced unwanted bacteria in the process.
 
 ## Timeline
 * 2016.03.06: Brew day
+* 2016.09.25: Bottling day
