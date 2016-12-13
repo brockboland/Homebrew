@@ -1,6 +1,8 @@
 # Altbier
 For the [CHAOS/Gino's brewing competition](https://www.chaosbrewclub.net/forum/announcements/chaos-and-ginos-brewing-club-only-competition-altbier). Based on the [BYO Sly Fox Altbier](http://byo.com/malt/item/1205-old-world-alt).
 
+I wasn't really paying attention when I ordered hops and got Strisselspalt instead of Spalt, so I improvised and used Saaz for bittering instead of Spalt. We'll see how it goes.
+
 ## Recipe
 Grain bill:
 * 6 lbs. pilsner malt
