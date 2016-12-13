@@ -25,9 +25,10 @@
 25. [ESB](25-ESB)
 26. [Irish red](26-Irish Red)
 27. [Vanilla Darling](27-Vanilla Darling)
-28. [Milk stout](28-Milk Stout)
+28. [Altbier](28-Altbier)
 
 ## On Deck
+- [Milk stout](28-Milk Stout)
 - IPA: Brewing Classic p 185
 - Irish ale (around 5%)
 - [w00tstout](Future Recipes/AG-w00tstout.pdf)
