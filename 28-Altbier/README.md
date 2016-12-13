@@ -41,4 +41,4 @@ Fermenter additions:
 ## Tasting notes
 
 ## Timeline
-* 2016.12.09: Brew day
+* 2016.12.10: Brew day
