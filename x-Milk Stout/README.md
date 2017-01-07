@@ -9,14 +9,6 @@ Grain bill:
 * 0.5 lb pale chocolate malt
 * 1 lb lactose
 
-## Price
-* Base malt: $13.06
-* Specialty grain: $3.96
-* Lactose: ?? (had some leftover)
-* Yeast: $6.29
-* Hops: $3.03
-* **Total: $26.34**
-
 Mash & Boil:
 * Mash at 151 F for 60 minutes
 * Boil 60 minutes
