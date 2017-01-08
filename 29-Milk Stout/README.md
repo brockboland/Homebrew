@@ -3,11 +3,11 @@ The sweet stout from [Brewing Classic Styles](http://www.amazon.com/Brewing-Clas
 
 I'm hoping this one turns out OK. The shop was out of Kent Goldings, so I got US Goldings instead. I didn't notice until the boil had started that [they were labeled as 15.6% alpha acid](HopsUsed.JPG)—which seems absurd, since everything I can find online says they should be in the 4–6 range. I'm guessing it was just a typo, because I checked [the rest of the hops I bought at the same time](HopsCompared.JPG), and some are labeled at 5.6%.
 
-I also bumped the grain up from 10 to 10.7 pounds to account for the fact that I had a bit less than a pound of lactose (I'd used a bit for another project). That wasn't measured, really—I just kind of ballparked it.
+I also bumped the grain up from 10 to 10.5 pounds to account for the fact that I had a bit less than a pound of lactose (I'd used a bit for another project). That wasn't measured, really—I just kind of ballparked it.
 
 ## Recipe
 Grain bill:
-* 10.7 lbs British pale
+* 10.5 lbs British pale
 * 1 lb Black patent malt
 * 0.75 lb Crystal 80
 * 0.5 lb pale chocolate malt
