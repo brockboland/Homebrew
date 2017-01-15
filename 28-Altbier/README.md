@@ -32,13 +32,16 @@ Fermenter additions:
 * 5 gallons into glass carboy
 
 ## Bottling day
-* FG: 1.0xx
-* x.x% ABV
-* xxx 12-ounce bottles
-* Carbonation target: xx volumes
-* Primed with x.x oz corn sugar
+* FG: 1.018
+* 3.8% ABV
+* 45 12-ounce bottles
+* Carbonation target: 2.6 volumes
+* Primed with 4.6 oz corn sugar
+* Used CHAOS bottling bucket #1
 
 ## Tasting notes
 
 ## Timeline
 * 2016.12.10: Brew day
+* 2017.01.07: Moved to the lagering fridge
+* 2017.01.14: Bottling day
