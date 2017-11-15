@@ -1,5 +1,5 @@
 # Vanilla Darling
-For a [CHAOS barrel-aging project](https://www.chaosbrewclub.net/forum/barrel-aging/vanilla-darling-high-west-barrel-2016). This is planned to go into a High West rye barrel for about a year.
+For a [CHAOS barrel-aging project](https://www.chaosbrewclub.net/forum/barrel-aging/vanilla-darling-high-west-barrel-2016). This was planned to go into a High West rye barrel for about a year, and wound up in a bourbon barrel instead.
 
 ## Recipe
 Grain bill:
@@ -29,13 +29,15 @@ Fermenter additions:
 * OG: 1.112
 
 ## Bottling day
-* FG: 1.0xx
-* x.x% ABV
-* xxx 12-ounce bottles
-* Carbonation target: xx volumes
-* Primed with x.x oz corn sugar
+My buddy John bottled up some bombers to send me, since I had moved out of town by the time the barrel was emptied. I don't know what the final gravity or ABV was.
+
+## Flavoring
+3 Madagascar vanilla beans were soaked in the 5 gallons for five days.
 
 ## Tasting notes
 
 ## Timeline
 * 2016.07.16: Brew day
+* 2016.08.07: Moved into the barrel
+* 2017.07.23: Barrel emptied
+* 2017.11.04: First taste
