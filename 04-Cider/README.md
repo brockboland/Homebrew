@@ -1,6 +1,6 @@
 # Cider
 
-Basically the same as (cider #2)[../02-Cider] but without secondary fermentation.
+Basically the same as [cider #2](../02-Cider) but without secondary fermentation.
 
 ## Recipe
 * 1 gallon Whole Foods apple juice

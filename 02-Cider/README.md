@@ -2,7 +2,7 @@
 
 Based on [HowToMakeHardCider.com](http://www.howtomakehardcider.com). I used a gallon of Whole Foods apple juice and white wine yeast, but that was about it.
 
-Basically the same as (cider #4)[../04-Cider] but *with* secondary fermentation.
+Basically the same as [cider #4](../04-Cider) but *with* secondary fermentation.
 
 It did not turn out good.
 
