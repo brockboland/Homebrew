@@ -35,7 +35,7 @@
 - Irish ale (around 5%)
 - [w00tstout](FutureRecipes/AG-w00tstout.pdf)
 - [Belgian Quad](FutureRecipes/AG-Northy12BelgianQuad.pdf)
-- [Cake stout](FutureRecipes/Cake Stout.jpeg)
+- [Cake stout](FutureRecipes/CakeStout.jpeg)
 - Re-attempt [ESB](11-ESB)
 - Re-attempt [Westy Clone](10-WestHubbarderen) without barrel aging
 - Dubbel

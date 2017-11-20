@@ -1,5 +1,5 @@
 # Eldorado Superly
-This was brewed for the CHAOS [Cerveza de Mayo](http://www.chaosbrewclub.net/event/cerveza-de-mayo-0) party next month. We tend to get a lot of hoppy IPAs and beers with Mexican spices and the like, so I was aiming for a mellower pale ale for those who come looking for an easy-drinker. I did [a dry run a couple months ago](../13-Eldorado Superfly) to make sure it turned out the way I wanted it to.
+This was brewed for the CHAOS [Cerveza de Mayo](http://www.chaosbrewclub.net/event/cerveza-de-mayo-0) party next month. We tend to get a lot of hoppy IPAs and beers with Mexican spices and the like, so I was aiming for a mellower pale ale for those who come looking for an easy-drinker. I did [a dry run a couple months ago](../13-EldoradoSuperfly) to make sure it turned out the way I wanted it to.
 
 I wasn't paying attention at the brew store and accidentally got 0.75 lb of melanoidin instead of 0.5 lb, and since it was all mixed in with the other grain I couldn't really undo that mistake. We'll see how that affects things.
 
