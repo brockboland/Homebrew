@@ -27,10 +27,9 @@
 27. [Vanilla Darling](27-VanillaDarling)
 28. [Altbier](28-Altbier)
 29. [Milk stout](29-MilkStout)
+30. [American Pale Ale](30-AmericanPaleAle)
 
-## On Deck
-- [Irish stout](30-IrishStout)
-- [APA](31-American Pale Ale)
+## Potential Future Recipes
 - IPA: Brewing Classic p 185
 - Irish ale (around 5%)
 - [w00tstout](FutureRecipes/AG-w00tstout.pdf)
