@@ -11,9 +11,8 @@ Mash & Boil:
 * Boil 60 minutes
 
 Boil additions:
-* 1 oz. Magnum (60 min)
-* 1 oz. Cascade (5 min)
-* 1 oz. Cascade (1 min)
+* 1 oz. Magnum (60 min* 1 oz. Cascade (5 min)
+* 1 oz. Cascade (1 min))
 
 Fermenter additions:
 * 1 Safale S-04
@@ -26,13 +25,15 @@ Fermenter additions:
 * Fermented in wide-mouthed plastic carboy
 
 ## Bottling day
-* FG: 1.0xx
-* x.x% ABV
-* xxx 12-ounce bottles
-* Carbonation target: 1.5 to 2 volumes
-* Primed with x.x oz corn sugar
+About 4.5 gallons went into the bottling bucket, but not all of that made it into bottles. I ran out of bottles, for one, but the sample I pulled for a gravity reading seemed to have a lot floating around in it, so I was happy to leave the dregs behind in both the fermenter and the bottling bucket, to cut down on the amount that went into the bottles.
+
+* FG: 1.011
+* 4.3% ABV
+* 11 bombers and 16 12-ounce bottles
+* Primed with 4 oz corn sugar
 
 ## Tasting notes
 
 ## Timeline
 * 2018.01.21: Brew day
+* 2018.02.03: Bottling day
