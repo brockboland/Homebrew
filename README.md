@@ -28,6 +28,7 @@
 28. [Altbier](28-Altbier)
 29. [Milk stout](29-MilkStout)
 30. [American Pale Ale](30-AmericanPaleAle)
+31. [Caribou Slobber brown ale](31-CaribouSlobber)
 
 ## Potential Future Recipes
 - IPA: Brewing Classic p 185

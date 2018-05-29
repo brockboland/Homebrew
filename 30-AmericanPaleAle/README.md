@@ -11,8 +11,9 @@ Mash & Boil:
 * Boil 60 minutes
 
 Boil additions:
-* 1 oz. Magnum (60 min* 1 oz. Cascade (5 min)
-* 1 oz. Cascade (1 min))
+* 1 oz. Magnum (60 min)
+* 1 oz. Cascade (5 min)
+* 1 oz. Cascade (1 min)
 
 Fermenter additions:
 * 1 Safale S-04
@@ -33,6 +34,7 @@ About 4.5 gallons went into the bottling bucket, but not all of that made it int
 * Primed with 4 oz corn sugar
 
 ## Tasting notes
+Mixed bag. Some bottles were raelly oxygenated, like they were pulled from soggy cardboard boxes that had been sitting in an earthern basement since the 70s. Some were just fine—not great, but fine, and very drinkable. Not a bad start for homebrewing in Seattle.
 
 ## Timeline
 * 2018.01.21: Brew day
