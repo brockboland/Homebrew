@@ -29,6 +29,7 @@
 29. [Milk stout](29-MilkStout)
 30. [American Pale Ale](30-AmericanPaleAle)
 31. [Caribou Slobber brown ale](31-CaribouSlobber)
+32. [Dead Ringer IPA BIAB](32-DeadRingerIPA)
 
 ## Potential Future Recipes
 - IPA: Brewing Classic p 185
