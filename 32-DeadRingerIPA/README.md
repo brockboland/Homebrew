@@ -17,15 +17,15 @@ Mash & Boil:
 * Boil 60 minutes
 
 Boil additions:
-* 0.4 oz. Centennial (60 min)
-* 0.6 oz. Centennial (20 min)
-* 1 oz. Centennial (5 min)
+* 0.4 oz. Centennial 10.6% (60 min)
+* 0.6 oz. Centennial 10.6% (20 min)
+* 1 oz. Centennial 10.6% (5 min)
 
 Fermenter additions:
 * 1 Safale US-05
 
 Dry-hopping
-* 1 oz Centennial
+* 1 oz Centennial 10.4%
 
 ## Brewing day
 * Mash volume: 4 gallon
@@ -45,3 +45,4 @@ Dry-hopping
 
 ## Timeline
 * 2018.07.15: Brew day
+* 2018.07.28: Dry hopped. Gravity at 1.022.
