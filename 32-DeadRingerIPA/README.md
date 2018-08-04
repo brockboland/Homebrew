@@ -46,3 +46,4 @@ Dry-hopping
 ## Timeline
 * 2018.07.15: Brew day
 * 2018.07.28: Dry hopped. Gravity at 1.022.
+* 2018.08.03: Dropped ferm chamber to 40 F to cold crash
