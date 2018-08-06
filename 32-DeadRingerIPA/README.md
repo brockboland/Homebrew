@@ -25,7 +25,7 @@ Fermenter additions:
 * 1 Safale US-05
 
 Dry-hopping
-* 1 oz Centennial 10.4%
+* 1 oz Centennial 10.4% for 8 days
 
 ## Brewing day
 * Mash volume: 4 gallon
@@ -34,12 +34,10 @@ Dry-hopping
 * Fermented in wide-mouthed plastic carboy
 
 ## Bottling day
-
-
-* FG: 1.0xx
-* x.x% ABV
-* xx bombers
-* Primed with x.x oz corn sugar
+* FG: 1.019
+* 5.1% ABV
+* 11 bombers
+* Primed with 1.86 oz corn sugar
 
 ## Tasting notes
 
@@ -47,3 +45,4 @@ Dry-hopping
 * 2018.07.15: Brew day
 * 2018.07.28: Dry hopped. Gravity at 1.022.
 * 2018.08.03: Dropped ferm chamber to 40 F to cold crash
+* 2018.08.05: Bottling day

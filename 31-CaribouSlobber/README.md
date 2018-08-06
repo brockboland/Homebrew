@@ -36,6 +36,7 @@ Fermenter additions:
 * Primed with 4.7 oz corn sugar
 
 ## Tasting notes
+The first bottle I tried was really sweet. Second one was OK: seemed less sweet, but still not great.
 
 ## Timeline
 * 2018.05.28: Brew day
