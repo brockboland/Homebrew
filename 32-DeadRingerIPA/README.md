@@ -46,3 +46,4 @@ Dry-hopping
 * 2018.07.28: Dry hopped. Gravity at 1.022.
 * 2018.08.03: Dropped ferm chamber to 40 F to cold crash
 * 2018.08.05: Bottling day
+* 2018.08.19: Checked the first bottle. Carbonation was good, but got some green-apple flavor, so I'm going to leave them alone for a bit.
