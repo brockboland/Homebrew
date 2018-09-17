@@ -30,6 +30,7 @@
 30. [American Pale Ale](30-AmericanPaleAle)
 31. [Caribou Slobber brown ale](31-CaribouSlobber)
 32. [Dead Ringer IPA BIAB](32-DeadRingerIPA)
+33. [Pumpkin Ale](33-PumpkinAle)
 
 ## Potential Future Recipes
 - IPA: Brewing Classic p 185
