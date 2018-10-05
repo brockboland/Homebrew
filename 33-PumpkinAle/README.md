@@ -45,12 +45,14 @@ Fermenter additions:
 * Fermented in wide-mouthed plastic carboy
 
 ## Bottling day
-* FG: 1.0xx
-* x.x% ABV
-* xx bombers
-* Primed with x.x oz corn sugar
+* FG: 1.008
+* 6.3% ABV
+* 7 bombers, 3 12-oz
+* Primed with 1.3 oz table sugar
 
 ## Tasting notes
 
 ## Timeline
 * 2018.09.16: Brew day
+* 2018.10.03: Checked gravity: 1.008. Started cold crash. 
+* 2018.10.04: Bottling day
