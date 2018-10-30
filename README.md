@@ -31,6 +31,8 @@
 31. [Caribou Slobber brown ale](31-CaribouSlobber)
 32. [Dead Ringer IPA BIAB](32-DeadRingerIPA)
 33. [Pumpkin Ale](33-PumpkinAle)
+34. [Stoup Zoiglbier](34-StoupAle)
+35. [Chocolate Milk Stout](35-ChocolateMilkStout)
 
 ## Potential Future Recipes
 - IPA: Brewing Classic p 185
