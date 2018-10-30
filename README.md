@@ -44,5 +44,4 @@
 - Re-attempt [Westy Clone](10-WestHubbarderen) without barrel aging
 - Dubbel
 - Re-attempt [Belgian Highlands](19-BelgianHighlands), with a lot less Carafa II Special
-- [Chocolate milk stout](FutureRecipes/AG-ChocolateMilkStout.pdf)
 - [Belgian Stout](FutureRecipes/AG-MustacheEnvy.pdf)
