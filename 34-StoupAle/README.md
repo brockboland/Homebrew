@@ -5,13 +5,14 @@ Fermenter additions:
 * 1 Mangrove Jack's US West Coast Yeast (M44)
 
 ## Bottling day
-* FG: 1.0xx
-* x.x% ABV
-* x bombers
-* Primed with x.x oz corn sugar
+* FG: 1.012
+* ?% ABV
+* 12 bombers
+* Primed with 2 oz corn sugar
 
 ## Tasting notes
 
 ## Timeline
 * 2018.10.24 Brew day
 * 2018.10.25: Pitched yeast
+* 2018.11.07: Bottling day

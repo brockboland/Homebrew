@@ -1,5 +1,7 @@
 # Chocolate Milk Stout
-This was a partial mash kit from [Northern Brewer](https://www.northernbrewer.com/products/chocolate-milk-stout-extract-kit)
+This was a partial mash kit from [Northern Brewer](https://www.northernbrewer.com/products/chocolate-milk-stout-extract-kit).
+
+This fermented on the cool side, because I don't have a heater for my ferm chamber and it's getting chilly out.
 
 ## Recipe
 Grain bill:
@@ -38,3 +40,4 @@ Fermenter additions:
 
 ## Timeline
 * 2018.10.27: Brew day
+* 2018.11.11: Checked gravity: 1.024
