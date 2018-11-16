@@ -41,3 +41,4 @@ Fermenter additions:
 ## Timeline
 * 2018.10.27: Brew day
 * 2018.11.11: Checked gravity: 1.024
+* 2018.11.15: Transferred to secondary, with 4oz cocoa nibs and about 10 fl oz of Evan Williams bourbon. Gravity 1.022
