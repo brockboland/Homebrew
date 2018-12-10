@@ -1,7 +1,7 @@
 # Chocolate Milk Stout
-This was a partial mash kit from [Northern Brewer](https://www.northernbrewer.com/products/chocolate-milk-stout-extract-kit).
+This was a partial mash kit from [Northern Brewer](https://www.northernbrewer.com/products/chocolate-milk-stout-extract-kit). It fermented on the cool side, because I don't have a heater for my ferm chamber and it's getting chilly out.
 
-This fermented on the cool side, because I don't have a heater for my ferm chamber and it's getting chilly out.
+This was the first time I did a closed transfer to a keg, so I'm hoping to avoid oxygenation issues I've had with bottling before (though it would probably fly under the radar in this stout).
 
 ## Recipe
 Grain bill:
@@ -30,11 +30,11 @@ Fermenter additions:
 * 5 gallons into the fermenter, after adding water
 * Fermented in wide-mouthed plastic carboy
 
-## Bottling day
-* FG: 1.0xx
-* x.x% ABV
-* x bombers
-* Primed with x.x oz corn sugar
+## Kegging day
+* FG: 1.020
+* 4.5% ABV
+* CO2-pushed into a keg
+* 10 psi to carbonate
 
 ## Tasting notes
 
@@ -42,3 +42,4 @@ Fermenter additions:
 * 2018.10.27: Brew day
 * 2018.11.11: Checked gravity: 1.024
 * 2018.11.15: Transferred to secondary, with 4oz cocoa nibs and about 10 fl oz of Evan Williams bourbon. Gravity 1.022
+* 2018.12.09: Kegged
