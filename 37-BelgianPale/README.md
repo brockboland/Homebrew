@@ -29,9 +29,8 @@ Fermenter additions:
 * OG: 1.058 (target 1.070)
 * 2.75 gallons into the fermenter
 * Fermented in wide-mouthed plastic carboy
-* Fermented at 72 F
 
 ## Tasting notes
 
 ## Timeline
-* 2019.01.01: Brew day
+* 2019.01.01: Brew day. Set fermentation fridge to 68 F.
