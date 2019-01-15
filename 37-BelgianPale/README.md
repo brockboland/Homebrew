@@ -34,3 +34,6 @@ Fermenter additions:
 
 ## Timeline
 * 2019.01.01: Brew day. Set fermentation fridge to 68 F.
+* 2019.01.09: Bumped up to 72 F
+* 2019.01.10: Removed from fermentation fridge. Left in the garage in the 60s.
+* 2019.01.13: Gravity at 1.004 (seems low?). Cold-crashing to 40 F.
