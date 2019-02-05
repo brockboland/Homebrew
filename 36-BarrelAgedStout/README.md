@@ -39,5 +39,6 @@ Ferment:
 
 ## Timeline
 - 2018.11.19: Brewed the first half
-- 2018.11.20: Brewed the second half
+- 2018.11.20: Brewed the second half and pitched yeast
 - 2019.01.01: Moved to a keg for storage until barrel fill. Gravity: 1.012 (7.5% ABV)
+- 2019.01.28: Transferred into Backbeat Bourbon barrel
