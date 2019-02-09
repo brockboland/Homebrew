@@ -35,6 +35,7 @@
 35. [Chocolate Milk Stout](35-ChocolateMilkStout)
 36. [Barrel-aged imperial stout](36-BarrelAgedStout)
 37. [Belgian pale ale](37-BelgianPale)
+38. [Amber ale](38-AmberAle)
 
 ## Potential Future Recipes
 - IPA: Brewing Classic p 185
