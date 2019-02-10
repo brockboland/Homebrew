@@ -27,7 +27,7 @@ Mash & Boil:
 
 Fermenter:
 - US-05 exp 2/2021 rehydrated in about a cup of water for about 30 minutes
-- Fermented in corny keg
+- Fermented in corny keg, with blowoff hose
 
 ## Brewing day
 - OG: 1.050 (target 1.055)
@@ -36,3 +36,4 @@ Fermenter:
 
 ## Timeline
 - 2019.02.08: Brew day
+- 2019.02.09: Checked about 16 hours after pitching and the blowoff was bubbling away
