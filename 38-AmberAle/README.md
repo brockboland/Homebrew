@@ -1,7 +1,7 @@
 # Amber Ale
 Amber ale recipe from [Brewing Classic Styles](http://www.amazon.com/Brewing-Classic-Styles-Winning-Recipes-ebook/dp/B002C1AJX8), scaled down to 2.75 gallons. I don't remember what hops that recipe called for, but I've got Centennial on hand, so that's what we're doing!
 
-## Recipe
+## Recipe & Brew Day Notes
 Grain bill:
 - 5 lbs 8 oz 2 Row
 - 10.4 oz Munich
@@ -23,17 +23,24 @@ Mash & Boil:
 - 0.5 oz Centennial (10.6%) 10 min
 - Yeast nutrient: 10 min
 - 0.4 oz Centennial (10.6%) 0 min
+
+Chill:
+- OG: 1.050 (target 1.055)
 - Chilled to 80 F in an ice bath, then dumped into the corny
 
 Fermenter:
 - US-05 exp 2/2021 rehydrated in about a cup of water for about 30 minutes
-- Fermented in corny keg, with blowoff hose
+- Fermented in 5 gal corny keg, with blowoff hose, at 68 F
 
-## Brewing day
-- OG: 1.050 (target 1.055)
+## Transfer Day
+- Gravity: 1.014, 4.8% ABV
+- Transferred from the fermenter into a 3 gallon corny
+- Added a half teaspoon of gelatin dissolved in a half cup of water at 159 F
+- Chilled to 36 F in the kegerator, with about 10 psi in the headspace but not connected to CO2
 
 ## Tasting notes
 
 ## Timeline
 - 2019.02.08: Brew day
 - 2019.02.09: Checked about 16 hours after pitching and the blowoff was bubbling away
+- 2019.02.23: Transfer day
