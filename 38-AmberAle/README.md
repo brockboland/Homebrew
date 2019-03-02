@@ -39,8 +39,13 @@ Fermenter:
 - Chilled to 36 F in the kegerator, with about 10 psi in the headspace but not connected to CO2
 
 ## Tasting notes
+My first impression was not positive. I thought the gelatin fining didn't do the trick, but I think I just didn't get all of the sediment out, because the second pint I pulled (the next day) was pretty clear.
+
+Outside of appearance, I think it's pretty crisp, and has pretty good aroma. I'm happy with it. 
 
 ## Timeline
 - 2019.02.08: Brew day
 - 2019.02.09: Checked about 16 hours after pitching and the blowoff was bubbling away
 - 2019.02.23: Transfer day
+- 2019.02.25: Connected to CO2 to carbonate
+- 2019.02.28: First taste. Needed another day or two. 
