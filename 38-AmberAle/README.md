@@ -41,7 +41,7 @@ Fermenter:
 ## Tasting notes
 My first impression was not positive. I thought the gelatin fining didn't do the trick, but I think I just didn't get all of the sediment out, because the second pint I pulled (the next day) was pretty clear.
 
-Outside of appearance, I think it's pretty crisp, and has pretty good aroma. I'm happy with it. 
+Outside of appearance, I think it's pretty crisp, and has pretty good aroma. Needs more body though, I think. 
 
 ## Timeline
 - 2019.02.08: Brew day
