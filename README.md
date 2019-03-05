@@ -36,6 +36,7 @@
 36. [Barrel-aged imperial stout](36-BarrelAgedStout)
 37. [Belgian pale ale](37-BelgianPale)
 38. [Amber ale](38-AmberAle)
+39. [Maibock](39-Maibock)
 
 ## Potential Future Recipes
 - IPA: Brewing Classic p 185
