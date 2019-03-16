@@ -35,6 +35,8 @@ My initial impression was not very positive. Carbonation is low, but more import
 
 I took this to my homebrew club on 2019.02.06, about two weeks after kegging, to ask what I might have done wrong. The general consensus, though, was that I didn't have any real off-flavors, just a yeast character that I don't much care for. I tossed the fermenter, just to be on the safe side. It had served me well for about a year as it was.
 
+Ultimately, I think I'll avoid this yeast in the future, since the beer didn't have the character I wanted. 
+
 ## Timeline
 * 2019.01.01: Brew day. Set fermentation fridge to 68 F.
 * 2019.01.09: Bumped up to 72 F
