@@ -37,6 +37,7 @@
 37. [Belgian pale ale](37-BelgianPale)
 38. [Amber ale](38-AmberAle)
 39. [Maibock](39-Maibock)
+40. [Double Vision IPA: Split Batch](40-DoubleVisionIPA)
 
 ## Potential Future Recipes
 - IPA: Brewing Classic p 185
