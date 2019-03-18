@@ -24,7 +24,7 @@ Chill:
 
 Fermenter:
 - 2 packs of Wyeast 2206 Bavarian lager
-- Fermented in 5 gal corny keg, with blowoff hose, at 50 F
+- Fermented in 5 gal corny keg (79354868), with blowoff hose, at 50 F
 
 ## Transfer Day
 - Gravity: 1.0xx, x.x% ABV
@@ -34,3 +34,4 @@ Fermenter:
 ## Timeline
 - 2019.03.03: Brew day. Set fermentation fridge to 50 F. 
 - 2019.03.13: Bumped fermentation fridge to 68 F (10 days at 50 F)
+- 2019.03.17: Transferred into serving keg (3 gallon, 82016773) and put in the kegerator at 36 F
