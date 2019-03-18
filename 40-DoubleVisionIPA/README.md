@@ -19,20 +19,26 @@ YCH Simcoe 13.6%
 
 - 0.35 oz cryo Citra (24.4%) 30 min
 - 0.5 oz Simcoe 10 min
-- 0.5 oz Simcoe whirlpool
-- 0.5 oz Simcoe dry hop 3 days
+- 0.5 oz Simcoe whirlpool for 5 min
+- 0.5 oz Simcoe dry hop 3? days
+
+After boil:
+- Chilled to 107 F
+- OG: 1.064
+- Fermented in 5 gal corny (79354868)
 
 ### Mosaic version
 YCH Mosaic 10.9%
 
 - 0.5 oz cryo Citra (24.4%) 30 min
 - 0.5 oz Mosaic 10 min
-- 0.5 oz Mosaic whirlpool
-- 0.5 oz Mosaic dry hop 3 days
+- 0.5 oz Mosaic whirlpool for 5 min
+- 0.5 oz Mosaic dry hop 3? days
 
-Fermenter:
-- Safale S-05
-- Fermented in 5 gal corny keg, with blowoff hose, at 68 F
+After boil:
+- Chilled to 97 F
+- OG: 1.064
+- Fermented in 5 gal corny (66041252)
 
 ## Transfer Day
 - Gravity: 1.0xx, x.x% ABV

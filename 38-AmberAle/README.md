@@ -46,6 +46,6 @@ Outside of appearance, I think it's pretty crisp, and has pretty good aroma. Nee
 ## Timeline
 - 2019.02.08: Brew day
 - 2019.02.09: Checked about 16 hours after pitching and the blowoff was bubbling away
-- 2019.02.23: Transfer day
+- 2019.02.23: Transferred to 3 gal keg (79033414) for serving
 - 2019.02.25: Connected to CO2 to carbonate at about 8 psi
 - 2019.02.28: First taste. Needed another day or two. 
