@@ -1,6 +1,8 @@
 # Maibock
 My first attempt at a lager. Based on the recipe from [Brewing Classic Styles](http://www.amazon.com/Brewing-Classic-Styles-Winning-Recipes-ebook/dp/B002C1AJX8), scaled down to 3 gallons.
 
+This was also the first time I used my new larger kettle, and since I'm brewing on the stove, I couldn't get a vigorous boil with it. We'll see how it turns out.
+
 ## Recipe & Brew Day Notes
 Grain bill:
 - 5.5 lb Pilsner
