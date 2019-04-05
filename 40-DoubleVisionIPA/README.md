@@ -20,7 +20,7 @@ YCH Simcoe 13.6%
 - 0.35 oz cryo Citra (24.4%) 30 min
 - 0.5 oz Simcoe 10 min
 - 0.5 oz Simcoe whirlpool for 5 min
-- 0.5 oz Simcoe dry hop 3? days
+- 1 oz Simcoe dry hop 3? days
 
 After boil:
 - Chilled to 107 F
@@ -36,7 +36,7 @@ YCH Mosaic 10.9%
 - 0.5 oz cryo Citra (24.4%) 30 min
 - 0.5 oz Mosaic 10 min
 - 0.5 oz Mosaic whirlpool for 5 min
-- 0.5 oz Mosaic dry hop 3? days
+- 1 oz Mosaic dry hop 3? days
 
 After boil:
 - Chilled to 97 F
@@ -59,6 +59,6 @@ For each beer, I rehydrated a packet of US-05 in about a half-cup of water. I du
 ## Timeline
 - 2019.03.17: Brew day
 - 2019.03.18: Yeast pitched. Ambient temp around 64 F.
-- 2019.04.04: Dry-hopped both beers, using a hop sack thing suspended in the feremnting keg.
+- 2019.04.04: Dry-hopped both beers, after 17 days in primary, using a hop sack thing suspended in the feremnting keg.
 - 2019.04.08: Transferred to serving kegs and set to 15 psi
 - 2019.04.13: Dialed back to 10 psi and tried the Mosaic. The Simcoe was clogged.
