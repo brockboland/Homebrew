@@ -37,3 +37,5 @@ Fermenter:
 - 2019.03.03: Brew day. Set fermentation fridge to 50 F. 
 - 2019.03.13: Bumped fermentation fridge to 68 F (10 days at 50 F)
 - 2019.03.17: Transferred into serving keg (3 gallon, 82016773) and put in the kegerator at 36 F
+- 2019.04.04: Put on 15 psi pressure
+- 2019.04.09: First taste
