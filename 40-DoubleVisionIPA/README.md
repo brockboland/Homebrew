@@ -27,6 +27,9 @@ After boil:
 - OG: 1.064
 - Fermented in 5 gal corny (79354868)
 
+Serving:
+- Transferred to 5 gal corny (66041252)
+
 ### Mosaic version
 YCH Mosaic 10.9%
 
@@ -39,6 +42,9 @@ After boil:
 - Chilled to 97 F
 - OG: 1.064
 - Fermented in 5 gal corny (66041252)
+
+Serving:
+- Transferred to 3 gal corny (79033414)
 
 ## Yeast Pitch
 I didn't want to waste more water chilling the wort all the way, so I filled the fermentation kegs and let them finish cooling overnight in the garage.
@@ -53,3 +59,5 @@ For each beer, I rehydrated a packet of US-05 in about a half-cup of water. I du
 ## Timeline
 - 2019.03.17: Brew day
 - 2019.03.18: Yeast pitched. Ambient temp around 64 F.
+- 2019.04.08: Transferred to serving kegs and set to 15 psi
+- 2019.04.13: Dialed back to 10 psi and tried the Mosaic. The Simcoe was clogged.
