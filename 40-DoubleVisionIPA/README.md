@@ -52,7 +52,7 @@ I didn't want to waste more water chilling the wort all the way, so I filled the
 For each beer, I rehydrated a packet of US-05 in about a half-cup of water. I dumped that slurry into the kegs after about a half-hour.
 
 ## Transfer Day
-- Gravity: 1.0xx, x.x% ABV
+I forgot to check gravities, but this was a pain in the neck. Both fermenters were stuck, thanks to the dry hopping, which isn't a big surprise because I just ferment in kegs (and haven't shortened the dip tubes). I only got a bit of the Mosaic into the keg (less than 2 gallons, I'd guess), and the Simcoe went better. But, the Simcoe serving keg was totally clogged, even after checking that the dip tube and poppet were clear (pushing CO2 into the gas out post didn't even do anything). I swapped the dip tube for a shorter one from a pin lock keg, which finally did the trick.
 
 ## Tasting notes
 
