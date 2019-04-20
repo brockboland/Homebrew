@@ -16,3 +16,4 @@ Fermenter additions:
 * 2018.10.24 Brew day
 * 2018.10.25: Pitched yeast
 * 2018.11.07: Bottling day
+* 2018.04.11: Still tasting pretty good! It's smoother out a bit, if anything. Usually, my bottles are way oxygenated by now. 
