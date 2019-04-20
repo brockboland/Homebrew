@@ -41,4 +41,4 @@ The first bottle I tried was really sweet. Second one was OK: seemed less sweet,
 ## Timeline
 * 2018.05.28: Brew day
 * 2018.07.08: Bottling day
-
+* 2019.04.19: Has the last bottle. Smooth and pretty good, especially considering how many problems I've had with oxygenation in bottles in the past. 
