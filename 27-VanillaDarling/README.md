@@ -41,3 +41,4 @@ My buddy John bottled up some bombers to send me, since I had moved out of town 
 * 2016.08.07: Moved into the barrel
 * 2017.07.23: Barrel emptied
 * 2017.11.04: First taste
+* 2019.04.22: Final bottle. Still pretty good. Very strong. 
