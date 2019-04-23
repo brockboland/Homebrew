@@ -20,12 +20,15 @@ YCH Simcoe 13.6%
 - 0.35 oz cryo Citra (24.4%) 30 min
 - 0.5 oz Simcoe 10 min
 - 0.5 oz Simcoe whirlpool for 5 min
-- 0.5 oz Simcoe dry hop 3? days
+- 1 oz Simcoe dry hop 3? days
 
 After boil:
 - Chilled to 107 F
 - OG: 1.064
 - Fermented in 5 gal corny (79354868)
+
+Serving:
+- Transferred to 5 gal corny (66041252)
 
 ### Mosaic version
 YCH Mosaic 10.9%
@@ -33,12 +36,15 @@ YCH Mosaic 10.9%
 - 0.5 oz cryo Citra (24.4%) 30 min
 - 0.5 oz Mosaic 10 min
 - 0.5 oz Mosaic whirlpool for 5 min
-- 0.5 oz Mosaic dry hop 3? days
+- 1 oz Mosaic dry hop 3? days
 
 After boil:
 - Chilled to 97 F
 - OG: 1.064
 - Fermented in 5 gal corny (66041252)
+
+Serving:
+- Transferred to 3 gal corny (79033414)
 
 ## Yeast Pitch
 I didn't want to waste more water chilling the wort all the way, so I filled the fermentation kegs and let them finish cooling overnight in the garage.
@@ -46,10 +52,13 @@ I didn't want to waste more water chilling the wort all the way, so I filled the
 For each beer, I rehydrated a packet of US-05 in about a half-cup of water. I dumped that slurry into the kegs after about a half-hour.
 
 ## Transfer Day
-- Gravity: 1.0xx, x.x% ABV
+I forgot to check gravities, but this was a pain in the neck. Both fermenters were stuck, thanks to the dry hopping, which isn't a big surprise because I just ferment in kegs (and haven't shortened the dip tubes). I only got a bit of the Mosaic into the keg (less than 2 gallons, I'd guess), and the Simcoe went better. But, the Simcoe serving keg was totally clogged, even after checking that the dip tube and poppet were clear (pushing CO2 into the gas out post didn't even do anything). I swapped the dip tube for a shorter one from a pin lock keg, which finally did the trick.
 
 ## Tasting notes
 
 ## Timeline
 - 2019.03.17: Brew day
 - 2019.03.18: Yeast pitched. Ambient temp around 64 F.
+- 2019.04.04: Dry-hopped both beers, after 17 days in primary, using a hop sack thing suspended in the feremnting keg.
+- 2019.04.08: Transferred to serving kegs and set to 15 psi
+- 2019.04.13: Dialed back to 10 psi and tried the Mosaic. The Simcoe was clogged.

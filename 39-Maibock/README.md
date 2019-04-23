@@ -29,9 +29,10 @@ Fermenter:
 - Fermented in 5 gal corny keg (79354868), with blowoff hose, at 50 F
 
 ## Transfer Day
-- Gravity: 1.0xx, x.x% ABV
+Forgot to check the gravity
 
 ## Tasting notes
+This was pretty tasty, and only last a week!
 
 ## Timeline
 - 2019.03.03: Brew day. Set fermentation fridge to 50 F. 
@@ -39,3 +40,4 @@ Fermenter:
 - 2019.03.17: Transferred into serving keg (3 gallon, 82016773) and put in the kegerator at 36 F
 - 2019.04.04: Put on 15 psi pressure
 - 2019.04.09: First taste
+- 2019.04.17: Keg kicked
