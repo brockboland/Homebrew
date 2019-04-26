@@ -20,7 +20,9 @@ YCH Simcoe 13.6%
 - 0.35 oz cryo Citra (24.4%) 30 min
 - 0.5 oz Simcoe 10 min
 - 0.5 oz Simcoe whirlpool for 5 min
-- 1 oz Simcoe dry hop 3? days
+- 1 oz Simcoe dry hop 4 days
+
+Est. IBU: 54
 
 After boil:
 - Chilled to 107 F
@@ -36,7 +38,9 @@ YCH Mosaic 10.9%
 - 0.5 oz cryo Citra (24.4%) 30 min
 - 0.5 oz Mosaic 10 min
 - 0.5 oz Mosaic whirlpool for 5 min
-- 1 oz Mosaic dry hop 3? days
+- 1 oz Mosaic dry hop 4 days
+
+Est. IBU: 54
 
 After boil:
 - Chilled to 97 F
@@ -55,10 +59,15 @@ For each beer, I rehydrated a packet of US-05 in about a half-cup of water. I du
 I forgot to check gravities, but this was a pain in the neck. Both fermenters were stuck, thanks to the dry hopping, which isn't a big surprise because I just ferment in kegs (and haven't shortened the dip tubes). I only got a bit of the Mosaic into the keg (less than 2 gallons, I'd guess), and the Simcoe went better. But, the Simcoe serving keg was totally clogged, even after checking that the dip tube and poppet were clear (pushing CO2 into the gas out post didn't even do anything). I swapped the dip tube for a shorter one from a pin lock keg, which finally did the trick.
 
 ## Tasting notes
+The Mosaic was pretty good. More bitter than I'd like, but the aroma and hop flavor were good.
+
+The Simcoe, once I finally got it out of the keg, was just OK. Also too bitter 
 
 ## Timeline
 - 2019.03.17: Brew day
 - 2019.03.18: Yeast pitched. Ambient temp around 64 F.
-- 2019.04.04: Dry-hopped both beers, after 17 days in primary, using a hop sack thing suspended in the feremnting keg.
+- 2019.04.04: Dry-hopped both beers, after 17 days in primary, using a hop sack thing suspended in the fermenting keg.
 - 2019.04.08: Transferred to serving kegs and set to 15 psi
 - 2019.04.13: Dialed back to 10 psi and tried the Mosaic. The Simcoe was clogged.
+- 2019.04.17: Swapped in a shorter dip tube on the Simcoe and put it on 8 psi
+- 2019.04.25: Tried the Simcoe.

@@ -24,6 +24,8 @@ Mash & Boil:
 - Yeast nutrient: 10 min
 - 0.4 oz Centennial (10.6%) 0 min
 
+Est. IBU: 29
+
 Chill:
 - OG: 1.050 (target 1.055)
 - Chilled to 80 F in an ice bath, then dumped into the corny
