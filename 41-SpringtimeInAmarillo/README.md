@@ -21,8 +21,6 @@ This [saison recipe](Recipe.png) comes from my local homebrew shop, [MicroHomebr
 - 0.6 lb Cascade clear candi syrup: 5 min
 - 0.5 oz Amarillo (8.5%): 0 min
 
-Est. IBU: 32
-
 ### Chill
 
 
@@ -33,6 +31,12 @@ Est. IBU: 32
 
 ## Transfer Day
 - Gravity: 1.0xx, x.x% ABV
+
+## Final stats
+- OG: 
+- Est. IBU: 32
+- FG:
+- ABV:
 
 ## Tasting notes
 
