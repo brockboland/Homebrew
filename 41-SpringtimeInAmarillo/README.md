@@ -8,12 +8,16 @@ This [saison recipe](Recipe.png) comes from my local homebrew shop, [MicroHomebr
 - 0.3 lb aromatic
 
 ### Mash
-- Mash at 150-152 60 min, in the brew bag in the cooler mash tun
-- Mash water: 9.5 qt
-- Sparge with 12.5 qt
-- Target pre-boil: 4.75 gal
+- Mash at 151 F for 60 min, in the brew bag in the cooler mash tun
+- Mash water: 11.5 qt (pretty thin. I was aiming for 9.5, but didn't hit temp)
+- Stirred at 30 min
+- Sparge with 10.5 qt
+- Target pre-boil volume: 4.75 gal
+- Actual pre-boil volume: slightly over 4 gal
+- Pre-boil gravity: about 1.042 (based on refractometer reading, but see note below)
 
 ### Boil
+- 4 drops of Fermcap
 - 0.5 oz Amarillo (8.5%): 60 min
 - 0.5 oz Amarillo (8.5%): 15 min
 - Irish moss: 15 min
@@ -21,19 +25,22 @@ This [saison recipe](Recipe.png) comes from my local homebrew shop, [MicroHomebr
 - 0.6 lb Cascade clear candi syrup: 5 min
 - 0.5 oz Amarillo (8.5%): 0 min
 
-### Chill
+After stirring in the candi syrup, I took another refractometer reading, and read 1.060, which sounded about right. But, at flameout, I got a lower reading—around 1.047. I grabbed my hydrometer to check the actual OG after filling the fermenter.
 
+### Chill
+I only used the immersion chiller for a few minutes, to get it down to about 150 F, then stirred up a whirlpool to collect hop matter in the middle.
 
 ### Fermenter
-- OG: 1.0xx (target 1.066 - 1.074)
-- Wyeast 3711 French Saison, mfg 3/29/19
+- Filled the fermenter pretty hot (see chilling notes) with plans to pitch yeast tomorrow
+- OG: 1.060 (target 1.066 - 1.074). I would have tossed in the rest of that pound of candi syrup if I'd realized how low I was.
+- Wyeast 3711 French Saison, mfg 3/26/19
 - Fermented in 5 gal corny (XXXXX)
 
 ## Transfer Day
 - Gravity: 1.0xx, x.x% ABV
 
 ## Final stats
-- OG: 
+- OG: 1.060
 - Est. IBU: 32
 - FG:
 - ABV:
