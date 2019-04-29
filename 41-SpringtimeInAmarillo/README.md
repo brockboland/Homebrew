@@ -35,6 +35,7 @@ I only used the immersion chiller for a few minutes, to get it down to about 150
 - OG: 1.060 (target 1.066 - 1.074). I would have tossed in the rest of that pound of candi syrup if I'd realized how low I was.
 - Wyeast 3711 French Saison, mfg 3/26/19
 - Fermented in 5 gal corny (XXXXX)
+- Set the fermentation fridge to 71F to cool it down the rest of the way overnight, to pitch yeast tomorrow
 
 ## Transfer Day
 - Gravity: 1.0xx, x.x% ABV
@@ -49,3 +50,4 @@ I only used the immersion chiller for a few minutes, to get it down to about 150
 
 ## Timeline
 - 2019.04.26: Brew day
+- 2019.04.27: Pitched yeast
