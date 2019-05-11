@@ -71,3 +71,4 @@ The Simcoe, once I finally got it out of the keg, was just OK. Also too bitter
 - 2019.04.13: Dialed back to 10 psi and tried the Mosaic. The Simcoe was clogged.
 - 2019.04.17: Swapped in a shorter dip tube on the Simcoe and put it on 8 psi
 - 2019.04.25: Tried the Simcoe.
+- 2019.05.10: Simcoe kicked
