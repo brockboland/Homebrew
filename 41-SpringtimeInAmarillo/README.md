@@ -37,17 +37,16 @@ I only used the immersion chiller for a few minutes, to get it down to about 150
 - Fermented in 5 gal corny (XXXXX)
 - Set the fermentation fridge to 71F to cool it down the rest of the way overnight, to pitch yeast tomorrow
 
-## Transfer Day
-- Gravity: 1.0xx, x.x% ABV
-
 ## Final stats
 - OG: 1.060
 - Est. IBU: 32
-- FG:
-- ABV:
+- FG: 1.006
+- ABV: 7.2%
 
 ## Tasting notes
 
 ## Timeline
 - 2019.04.26: Brew day
 - 2019.04.27: Pitched yeast
+- 2019.05.09: Cold crashed to 37 F
+- 2019.05.10: Transferred to serving keg (82016773) and added Biofine
