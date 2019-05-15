@@ -34,7 +34,6 @@ I only used the immersion chiller for a few minutes, then stirred up a whirlpool
 - OG: 1.062 (recipe target 1.070)
 - Imperial Triple Double, mfg 4/11/2019
 - Fermented in 5 gal corny (66041252)
-- Set the fermentation fridge to 71F to cool it down the rest of the way overnight, to pitch yeast tomorrow
 
 ## Final stats
 - OG: 1.062
@@ -46,3 +45,4 @@ I only used the immersion chiller for a few minutes, then stirred up a whirlpool
 
 ## Timeline
 - 2019.05.10: Brew day
+- 2019.05.11: Pitched yeast. Going strong after 24 hours. Realized two days later that I forgot to aerate the wort, but the yeast seemed to be doing just fine.

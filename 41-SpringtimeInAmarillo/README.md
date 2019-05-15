@@ -50,3 +50,4 @@ I only used the immersion chiller for a few minutes, to get it down to about 150
 - 2019.04.27: Pitched yeast
 - 2019.05.09: Cold crashed to 37 F
 - 2019.05.10: Transferred to serving keg (82016773) and added Biofine
+- 2019.05.13: Flushed the trub from the keg and put on to carbonate at 10 psi
