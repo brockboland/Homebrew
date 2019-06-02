@@ -46,3 +46,4 @@ I only used the immersion chiller for a few minutes, then stirred up a whirlpool
 ## Timeline
 - 2019.05.10: Brew day
 - 2019.05.11: Pitched yeast. Going strong after 24 hours. Realized two days later that I forgot to aerate the wort, but the yeast seemed to be doing just fine.
+- 2019.05.29: Dropped fermentation fridge to 37 F to cold crash
