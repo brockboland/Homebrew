@@ -38,8 +38,8 @@ I only used the immersion chiller for a few minutes, then stirred up a whirlpool
 ## Final stats
 - OG: 1.062
 - Est. IBU: 24
-- FG:
-- ABV:
+- FG: 1.006
+- ABV: 7.4%
 
 ## Tasting notes
 
@@ -47,3 +47,4 @@ I only used the immersion chiller for a few minutes, then stirred up a whirlpool
 - 2019.05.10: Brew day
 - 2019.05.11: Pitched yeast. Going strong after 24 hours. Realized two days later that I forgot to aerate the wort, but the yeast seemed to be doing just fine.
 - 2019.05.29: Dropped fermentation fridge to 37 F to cold crash
+- 2019.06.10: Kegged in two kegs (filled a 1.75 gal cannonball, and the remainder into a 3 gallon). 14 psi at 37 F.
