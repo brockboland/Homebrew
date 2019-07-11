@@ -44,6 +44,7 @@ I only used the immersion chiller for a few minutes, to get it down to about 150
 - ABV: 7.2%
 
 ## Tasting notes
+Belgian-y flavors. Pretty solid saison. I might ferment it lower next time to tone it down a little bit.
 
 ## Timeline
 - 2019.04.26: Brew day

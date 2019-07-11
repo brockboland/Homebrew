@@ -32,7 +32,7 @@ Fermenter:
 Forgot to check the gravity
 
 ## Tasting notes
-This was pretty tasty, and only last a week!
+This was pretty tasty, and only lasted a week! Crisp with a little bite.
 
 ## Timeline
 - 2019.03.03: Brew day. Set fermentation fridge to 50 F. 
