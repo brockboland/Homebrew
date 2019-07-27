@@ -1,6 +1,8 @@
 # Belgian Blonde
 This [recipe](Recipe.jpeg) comes from my local homebrew shop, [MicroHomebrew](https://www.microhomebrew.com/). I scaled it back to 4/5 the regular recipe this time, in hopes that I'd a: hit gravity, and b: have plenty of beer to fill the keg.
 
+This was brewed for club night at Homebrewcon, though I wasn't able to go. Our club sent a bunch of small kegs, so half went to Homebrewcon and half went in my kegerator.
+
 ## Recipe & Brew Day Notes
 ### Grain bill
 - 9.6 lb Belgian pilsner
@@ -42,6 +44,7 @@ I only used the immersion chiller for a few minutes, then stirred up a whirlpool
 - ABV: 7.4%
 
 ## Tasting notes
+Smooth and tasty. An easy drinker, and I'm told it was popular at Homebrewcon club night. A bit of that Belgian character, but just a bit.
 
 ## Timeline
 - 2019.05.10: Brew day
