@@ -41,3 +41,4 @@ I only used the immersion chiller for a few minutes, bringing the wort dwon to a
 - 2019.07.06: pitched yeast, ferm fridge set to 53 F
 - 2019.07.27: bumped ferm fridge to 68 F (after 21 days at 53)
 - 2019.07.30: gravity at 1.010, 6.4% ABV
+- 2019.08.01: dropped ferm fridge to 38 F
