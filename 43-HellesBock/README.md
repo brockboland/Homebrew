@@ -27,7 +27,7 @@ I only used the immersion chiller for a few minutes, bringing the wort dwon to a
 - Filled the fermenter pretty hot (see chilling notes) with plans to pitch yeast tomorrow. Put it in the fermentation fridge at 53 F.
 - OG: 1.058 (recipe target 1.070)
 - 2 packs of Imperial Harvest, mfg June 4, 2019
-- Fermented in 5 gal corny (???)
+- Fermented in 5 gal corny (66041252)
 
 ## Final stats
 - OG: 1.058
