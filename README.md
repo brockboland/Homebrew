@@ -40,6 +40,8 @@
 40. [Double Vision IPA: Split Batch](40-DoubleVisionIPA)
 41. [Springtime In Amarillo Saison](41-SpringtimeInAmarillo)
 42. [Belgian Blonde](42-BelgianBlonde)
+43. [Helles Bock](43-HellesBock)
+44. [Pumpkin Kveik](44-PumpkinKveik)
 
 ## Potential Future Recipes
 - IPA: Brewing Classic p 185

@@ -21,7 +21,7 @@ Don't tell anybody but this is basically the [Maibock](../39-Maibock/README.md) 
 - Yeast nutrient: 10 min
 
 ### Chill
-I only used the immersion chiller for a few minutes, bringing the wort dwon to around 130 F, then stirred up a whirlpool to collect hop matter in the middle.
+I only used the immersion chiller for a few minutes, bringing the wort down to around 130 F, then stirred up a whirlpool to collect hop matter in the middle.
 
 ### Fermenter
 - Filled the fermenter pretty hot (see chilling notes) with plans to pitch yeast tomorrow. Put it in the fermentation fridge at 53 F.
@@ -31,8 +31,8 @@ I only used the immersion chiller for a few minutes, bringing the wort dwon to a
 
 ## Final stats
 - OG: 1.058
-- FG: 1.0xx
-- ABV: xx%
+- FG: 1.010
+- ABV: 6.4%
 
 ## Tasting notes
 
