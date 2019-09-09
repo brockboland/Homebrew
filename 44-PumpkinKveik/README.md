@@ -34,9 +34,9 @@ My homebrew club recently started doing duels, and my friend Gene challenged me 
 I put the immersion chiller into the boil for the last 5 minutes to sanitize it. I only used the chiller for a few minutes, then stirred up a whirlpool to collect hop matter in the middle.
 
 ### Fermenter
-- Filled the fermenter pretty hot (see chilling notes) with plans to pitch yeast tomorrow. Put it in the fermentation fridge at 82 F.
+- Filled the fermenter pretty hot (see chilling notes) with plans to pitch yeast later. Put it in the fermentation fridge (set at 82 F), and pitched yeast about 6 hours later. 
 - OG: 1.059 (recipe target 1.089ish)
-- Imperial Kveiking, mfg ???
+- Imperial A44 Kveiking, mfg 6 Aug 2019
 - Fermented in 5 gal corny (66041252)
 
 ## Final stats
