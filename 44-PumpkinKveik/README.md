@@ -1,4 +1,4 @@
-# Pumpkin Kveik
+# Jack, The Pumpkin Kveing
 My homebrew club recently started doing duels, and my friend Gene challenged me to a pumpkin beer brew-off. I love me a good pumpkin beer, and I was thrilled with the one I made last year. I based this on [that recipe](../33-PumpkinAle/README.md), but used Kveik yeast to see what I get. I made some other minor adjustments to ingredients, based on what I had handy. 
 
 ## Recipe & Brew Day Notes
