@@ -43,3 +43,4 @@ I only used the immersion chiller for a few minutes, bringing the wort down to a
 - 2019.07.30: gravity at 1.010, 6.4% ABV
 - 2019.08.01: dropped ferm fridge to 38 F
 - 2019.09.07: transferred to serving keg at 39 F and 8 PSI
+- 2019.09.18: filled 4 bottles, for competition
