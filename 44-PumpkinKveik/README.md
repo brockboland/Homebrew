@@ -48,3 +48,5 @@ I put the immersion chiller into the boil for the last 5 minutes to sanitize it.
 
 ## Timeline
 - 2019.09.08: Brew day
+- 2019.09.16: Bumped the fermentation fridge to 85 F just in case. It was still only around 82 because the reptile tank heater can only do so much. 
+- 2019.09.18: Cold crashed at 40 F
