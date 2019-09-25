@@ -41,8 +41,8 @@ I put the immersion chiller into the boil for the last 5 minutes to sanitize it.
 
 ## Final stats
 - OG: 1.059
-- FG: 1.0xx
-- ABV: xx%
+- FG: 1.012
+- ABV: 6.2%
 
 ## Tasting notes
 
@@ -50,3 +50,4 @@ I put the immersion chiller into the boil for the last 5 minutes to sanitize it.
 - 2019.09.08: Brew day
 - 2019.09.16: Bumped the fermentation fridge to 85 F just in case. It was still only around 82 because the reptile tank heater can only do so much. 
 - 2019.09.18: Cold crashed at 40 F
+- 2019.09.24: Transferred into a serving keg. Put it in the kegerator at 39 F and 10 PSI. 
