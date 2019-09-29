@@ -51,6 +51,7 @@ Fermenter additions:
 * Primed with 1.3 oz table sugar
 
 ## Tasting notes
+This wound up being fantastic. The brew day was a mess, but the Belgian yeast made it interesting, like I'd hoped it would. It was light and fruity, and I wish I'd got more bottles out of it.
 
 ## Timeline
 * 2018.09.16: Brew day
