@@ -42,6 +42,7 @@
 42. [Belgian Blonde](42-BelgianBlonde)
 43. [Helles Bock](43-HellesBock)
 44. [Jack, The Pumpkin Kveing](44-PumpkinKveik)
+45. [Old Ale](45-OldAle)
 
 ## Potential Future Recipes
 - IPA: Brewing Classic p 185
