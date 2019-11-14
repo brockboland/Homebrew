@@ -37,10 +37,11 @@ I put the immersion chiller into the boil for the last 5 minutes to sanitize it.
 
 ## Final stats
 - OG: 1.090
-- FG: 1.0xx
-- ABV: x.x%
+- FG: 1.020
+- ABV: 9.4%
 
 ## Tasting notes
 
 ## Timeline
 - 2019.10.06: Brew day
+- 2019.11.13: Transferred to a serving keg for some aging. Outside of the fermenter was iffy, hoping the beer is ok. 
