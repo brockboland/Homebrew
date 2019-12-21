@@ -42,6 +42,8 @@ I put the immersion chiller into the boil for the last 5 minutes to sanitize it.
 
 ## Tasting notes
 
+
 ## Timeline
 - 2019.10.06: Brew day
 - 2019.11.13: Transferred to a serving keg for some aging. Outside of the fermenter was iffy, hoping the beer is ok. 
+- 2019.12.21: Looking pretty clear, golden-amber, with decent head.
