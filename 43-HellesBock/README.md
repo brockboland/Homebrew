@@ -44,3 +44,4 @@ I only used the immersion chiller for a few minutes, bringing the wort down to a
 - 2019.08.01: dropped ferm fridge to 38 F
 - 2019.09.07: transferred to serving keg at 39 F and 8 PSI
 - 2019.09.18: filled 4 bottles, for competition
+- 2020.01.22: had the last bottle. Held carbonation well, and had mellowed out a bit. I expected it to be oxygenated, because I'm pretty sure I just filled these from the tap with a growler filler, but it seems alright. 
