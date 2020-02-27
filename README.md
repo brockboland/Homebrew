@@ -45,13 +45,11 @@
 45. [Old Ale](45-OldAle)
 
 ## Potential Future Recipes
-- IPA: Brewing Classic p 185
-- Irish ale (around 5%)
 - [w00tstout](FutureRecipes/AG-w00tstout.pdf)
 - [Belgian Quad](FutureRecipes/AG-Northy12BelgianQuad.pdf)
 - [Cake stout](FutureRecipes/CakeStout.jpeg)
-- Re-attempt [ESB](11-ESB)
 - Re-attempt [Westy Clone](10-WestHubbarderen) without barrel aging
 - Dubbel
 - Re-attempt [Belgian Highlands](19-BelgianHighlands), with a lot less Carafa II Special
 - [Belgian Stout](FutureRecipes/AG-MustacheEnvy.pdf)
+- New Glarus Belgian Red clone: Zymurgy Jul/Aug 2007
