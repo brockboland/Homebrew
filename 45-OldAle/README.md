@@ -41,9 +41,10 @@ I put the immersion chiller into the boil for the last 5 minutes to sanitize it.
 - ABV: 9.4%
 
 ## Tasting notes
-
+It's alright. Hoppier than I expected. I'm going to forget about some of these bottles and see how they mellow over time.
 
 ## Timeline
 - 2019.10.06: Brew day
 - 2019.11.13: Transferred to a serving keg for some aging. Outside of the fermenter was iffy, hoping the beer is ok. 
 - 2019.12.21: Looking pretty clear, golden-amber, with decent head.
+- 2020.03.03: Bottled the remainder, using my new Beer Gun. Filled 5 flip top bottles (500ml, I think), 10 regular 12oz bottles, and half a growler—which was a lot more than I expecetd to get out of there.
