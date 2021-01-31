@@ -24,3 +24,4 @@
     * 5 gallon ball lock
     * Bought from Annie with new O-rings Aug 3, 2020
     * SN 78313383
+    * Replaced both poppets Jan 31, 2021 (liquid was leaking)
